@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "resdesal"
+version = "1.0.0"
+description = "Water-balance and cost screening of storage, strengthened RO and thermal diversity for the resilience of large seawater desalination plants"
+license = {text = "MIT"}
+authors = [{name = "M. Usama Siddiqui"}, {name = "Syed M. Zubair", email = "smzubair@kfupm.edu.sa"}]
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24"]
+
+[project.optional-dependencies]
+analysis = ["SALib>=1.4"]
+test = ["pytest>=7"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

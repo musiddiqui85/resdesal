@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper (reference below) and this repository."
+title: "resdesal: resilience screening of large seawater desalination plants"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Siddiqui
+    given-names: M. Usama
+    affiliation: "Department of Mechanical Engineering, DHA Suffa University, Karachi, Pakistan"
+    orcid: "https://orcid.org/0000-0003-0079-2995"
+  - family-names: Zubair
+    given-names: Syed M.
+    affiliation: "Department of Mechanical Engineering and Interdisciplinary Research Center for Sustainable Energy Systems, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
+    orcid: "https://orcid.org/0000-0001-6994-0242"
+    email: smzubair@kfupm.edu.sa
+preferred-citation:
+  type: article
+  title: "Resilience of large seawater desalination plants to algal blooms and oil spills: a least-cost comparison of storage, strengthened reverse osmosis and thermal diversity"
+  authors:
+    - family-names: Siddiqui
+      given-names: M. Usama
+    - family-names: Zubair
+      given-names: Syed M.
+  journal: "Desalination"
+  year: 2026
+  status: submitted
+  notes: "Manuscript submitted to Desalination."
