@@ -6,6 +6,9 @@ resdesal is the Python package behind the paper
 > oil spills: a least-cost comparison of storage, strengthened reverse osmosis and thermal diversity*
 > (manuscript submitted to *Desalination*).
 
+The repository also holds the data and results of the paper: the compiled outage events, the 2026 Israeli plant
+reports, every model output behind the tables and figures, and the scripts that produce them.
+
 It asks a practical question for a large seawater reverse osmosis (SWRO) plant: which combination of product
 storage, strengthened RO (dissolved air flotation with ultrafiltration, a subsurface intake, a second site) and
 thermal units (MED, MSF) keeps critical demand supplied through an algal bloom, an oil spill or a power failure at
@@ -38,7 +41,8 @@ python -m pytest                   # runs the tests
 ```
 
 Only `numpy` is needed for the package itself. `SALib` is needed for the sensitivity indices in
-`scripts/run_studies.py`. `requirements-lock.txt` pins the exact versions used for the paper.
+`scripts/run_studies.py`, and `matplotlib` and `pillow` for the figures. `requirements-lock.txt` pins the exact
+versions used for the paper.
 
 ## Worked examples
 
@@ -83,8 +87,64 @@ print(evaluate(option, HAZARDS["short_bloom"], x).met.mean())   # share of sampl
 - **Designs:** `scripts/design_study.py`, `option_for(daf_trains, subsurface_trains, med_units, steam, n=msf_units)`
   and `costs(...)`. Example 04 uses them.
 
-`scripts/run_studies.py` and `scripts/design_study.py` also run the option studies and the full design
-comparison of the paper when called directly. They write their tables to `results/`.
+## Data
+
+`data/` holds the inputs compiled from published sources.
+
+- `events.csv`: documented outages and closures of seawater desalination plants in blooms and oil spills,
+  1997–2026, with the reported duration, the evidence level and the source of each (Table 2 and Fig. 2 of the
+  paper).
+- `israel2026_plants.csv` and `israel2026_output.csv`: shutdown, restart and reported output of the Israeli plants
+  in the 2026 bloom, from news reports (Section 2.7 and Section S16 of the paper).
+
+The data sheet of the GCRP-600 reference plant, with a source and status for every value, is Supplementary
+Material S2 of the paper. Its values are the ones in `src/resdesal/params.py` and `src/resdesal/architectures.py`.
+
+## Reproducing the results
+
+`results/` holds every model output of the paper. The scripts below rewrite it, and the figure scripts write
+`figures/`. Run them from the repository root, in this order, because later steps read the files of earlier
+ones. On Windows, set `PYTHONPATH` with `set PYTHONPATH=src` first and leave it out of each line.
+
+```bash
+PYTHONPATH=src python scripts/run_studies.py
+PYTHONPATH=src python scripts/design_study.py
+PYTHONPATH=src python scripts/holdout_check.py
+PYTHONPATH=src python scripts/assumption_study.py
+PYTHONPATH=src python scripts/cost_sensitivity.py
+PYTHONPATH=src python scripts/msf_threshold.py
+PYTHONPATH=src python scripts/israel2026_hindcast.py --compute-only
+PYTHONPATH=src python scripts/make_figures.py
+PYTHONPATH=src python scripts/make_si_figures.py
+```
+
+| Script | Writes to `results/` | Used in the paper | Time |
+|---|---|---|---|
+| `run_studies.py` | `table3_sigma`, `costs_breakeven`, `gas_sensitivity`, `mc_summary`, `mc_summary_dc_range`, `storage_sweep`, `dc_sweep`, `pretreatment_threshold`, `robust_sizing`, `a3_conditional`, `matched_thermal`, `oil_thermal_sensitivity`, `sobol_*` | Table 4, Figs. 4–6, Sections 3.1, 3.2 and 3.6, Sections S17–S19 | 6 s |
+| `design_study.py` | `design_enumeration`, `design_best`, `design_fronts`, `refill_selected` | Table 5, Fig. 7, Section 3.3, Table S16 | 1.5 min |
+| `holdout_check.py` | `holdout_check` | Section S12 (check on fresh draws) | 2 s |
+| `assumption_study.py` | `survival_map`, `response_grid`, `assumption_sensitivity`, `stress_cases` | Fig. 8, Table 6, Sections 3.4 and 3.5, Fig. S2, Tables S7 and S14 | 50 min |
+| `cost_sensitivity.py` | `cost_sensitivity`, `cost_switching`, `cost_joint` | Table 6, Section 3.5, Tables S14 and S15 | 30 s |
+| `msf_threshold.py` | `msf_threshold` | Fig. 9, Section 3.7 | 3.5 min |
+| `israel2026_hindcast.py --compute-only` | `israel2026_hindcast`, `israel2026_fits`, `israel2026_shortfall` | Section 2.7, Section S16 | 2 s |
+| `make_figures.py` | `figures/fig1_*` to `figures/fig9_*`, `figures/figS2_*` | Figs. 1–9 and S2 | 30 s |
+| `make_si_figures.py` | `figures/figS1_*` | Fig. S1 | 3 s |
+
+Times are from a run on 12 cores. The random seed (20261102) is fixed in `scripts/run_studies.py`. With the
+versions in `requirements-lock.txt` (Python 3.14, Windows 11), every file the scripts write to `results/` is
+identical, byte for byte, to the one in this repository, so `git status results` after a run shows no change.
+On other platforms or package versions, floating-point details may change the last digits of some values.
+
+`assumption_study.py` takes the parts to run as arguments (`sensitivity`, `stress`, `map`, `grid`), and any
+script can be run on its own once the files it reads exist.
+
+`results/israel2026_forecast.json` is not an output. It is a forecast of when two Israeli plants would return to
+full output, frozen on 3 November 2026 before later plant reports were read. With `--compute-only` the hindcast
+never rewrites it. In the hindcast files, "P1" in a label or column name (for example `p1_low`) means the model
+of the paper.
+
+The labels of Fig. 2 carry the reference numbers of the paper only when the paper is built with it, so the
+figure drawn here has the same events without the numbers.
 
 ## Repository layout
 
@@ -96,7 +156,9 @@ src/resdesal/        the package
   montecarlo.py        sampling of the hazards and the exact peak shortfall of many events at once
   waterbalance.py      time-stepping water-balance simulator used for verification
   economics.py         cost of surviving capacity, energy premiums and lifecycle cost
-scripts/             the option and design definitions used by the examples
+scripts/             the studies, the design comparison and the figures of the paper
+data/                documented outage events and the 2026 Israeli plant reports
+results/             every model output of the paper
 examples/            five worked examples
 tests/               unit tests (pytest)
 docs/                the model and where the code implements it
@@ -124,8 +186,12 @@ The same reference is in [CITATION.cff](CITATION.cff), which GitHub shows as "Ci
 
 ## Licence
 
-[MIT licence](LICENSE). You may use, modify and redistribute the code, including commercially, provided the
-copyright notice is kept.
+- Code (`src/`, `scripts/`, `examples/`, `tests/`): [MIT licence](LICENSE). You may use, modify and
+  redistribute it, including commercially, provided the copyright notice is kept.
+- Data and results (`data/`, `results/`): [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-DATA.md).
+  You may share and adapt them for any purpose, provided you give credit and cite the paper.
+
+The reports, papers and news articles compiled in `data/` remain under their own terms.
 
 Copyright © 2026 M. Usama Siddiqui and Syed M. Zubair.
 

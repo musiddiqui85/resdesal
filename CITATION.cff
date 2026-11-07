@@ -3,6 +3,8 @@ message: "If you use this software, please cite the paper (reference below) and 
 title: "resdesal: resilience screening of large seawater desalination plants"
 version: 1.0.0
 license: MIT
+repository-code: "https://github.com/musiddiqui85/resdesal"
+url: "https://github.com/musiddiqui85/resdesal"
 authors:
   - family-names: Siddiqui
     given-names: M. Usama

@@ -1,4 +1,4 @@
-# Exact versions used to produce the results of the paper (Python 3.14.0, Windows 11). See results/run_manifest.json.
+# Exact versions used to produce the results of the paper (Python 3.14.0, Windows 11).
 # pip install -r requirements-lock.txt && pip install -e . --no-deps
 numpy==2.4.1
 scipy==1.16.3
