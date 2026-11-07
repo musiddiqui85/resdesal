@@ -1,0 +1,16 @@
+plant,structure,reports,misfit,T,restart,recovery,hold
+Ashkelon,"P1 plateau, published ranges",2,0.0,11.0,0.4,1.0,20.0
+Ashkelon,"P1 plateau, free ranges",2,0.0,11.0,0.4,0.25,2.0
+Ashkelon,"Rising, free ranges",2,0.0,11.0,0.2667,0.25,3.825
+Ashdod,"P1 plateau, published ranges",3,0.0475,10.0,0.7075,1.3,34.3333
+Ashdod,"P1 plateau, free ranges",3,0.05,10.0,0.7,1.7375,36.0
+Ashdod,"Rising, free ranges",3,0.0057,10.0,0.4,0.7458,57.025
+Palmachim,"P1 plateau, published ranges",4,0.15,2.0,0.4,1.0,20.0
+Palmachim,"P1 plateau, free ranges",4,0.15,2.0,0.25,0.25,10.0
+Palmachim,"Rising, free ranges",4,0.0436,2.0,0.4667,1.7375,50.375
+Sorek B,"P1 plateau, published ranges",1,0.0,2.0,0.4,1.0,20.0
+Sorek B,"P1 plateau, free ranges",1,0.0,2.0,0.4,0.25,10.0
+Sorek B,"Rising, free ranges",1,0.0,2.0,0.0,0.25,20.45
+Sorek A,"P1 plateau, published ranges",2,0.0,7.0,0.4,1.0,20.0
+Sorek A,"P1 plateau, free ranges",2,0.0,7.0,0.4,0.25,6.0
+Sorek A,"Rising, free ranges",2,0.0,7.0,0.0,0.7458,7.15

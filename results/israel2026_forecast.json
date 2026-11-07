@@ -1,0 +1,146 @@
+{
+  "frozen_on": "2026-11-03",
+  "evidence_cutoff": "2026-10-13",
+  "statement": "Written before any report on Israeli plant output after the evidence cut-off was read. If a plant below is reported under 95% of capacity because of the bloom after the latest 'P1 plateau, published ranges, any values' date, the short-bloom derate range (Z11) is too short. If it returns to full output near the 'Rising' dates and not before, the flat plateau should give way to a climb. Reports blaming another cause (as for Sorek B) do not count.",
+  "inputs": {
+    "data/israel2026_plants.csv": "37ada00295765a64d47bb4d733ca93bc0c41ba28c5f8a8f553282d2c5bd4b7ed",
+    "data/israel2026_output.csv": "0e51aae919da9f8066126015d4ea79f1bf92ca618c305a0d68d0ac6f785d812c",
+    "scripts/israel2026_hindcast.py": "515f00a99114bd5cd97e4ce798ca6c8bdceff4a3d1476b65060de835592ab942"
+  },
+  "git_head": "ae1d838e45f1d508aeff479f15192910db499588",
+  "git_dirty": true,
+  "forecast": {
+    "Ashdod": {
+      "P1 plateau, published ranges, any values": {
+        "earliest": "2026-09-29",
+        "latest": "2026-10-20",
+        "days_after_shutdown": [
+          30.0,
+          51.0
+        ]
+      },
+      "P1 plateau, published ranges, at base values": {
+        "earliest": "2026-10-09",
+        "latest": "2026-10-09",
+        "days_after_shutdown": [
+          40.5,
+          40.5
+        ]
+      },
+      "P1 plateau, published ranges, best fits": {
+        "best_misfit": 0.047,
+        "fits_kept": 936,
+        "full_output": {
+          "earliest": "2026-10-13",
+          "latest": "2026-10-19",
+          "days_after_shutdown": [
+            44.3,
+            50.0
+          ],
+          "latest_at_grid_limit": true
+        }
+      },
+      "P1 plateau, free ranges, best fits": {
+        "best_misfit": 0.05,
+        "fits_kept": 215,
+        "full_output": {
+          "earliest": "2026-10-15",
+          "latest": "2027-01-07",
+          "days_after_shutdown": [
+            46.0,
+            130.0
+          ],
+          "latest_at_grid_limit": true
+        }
+      },
+      "Rising, free ranges, best fits": {
+        "best_misfit": 0.006,
+        "fits_kept": 53,
+        "full_output": {
+          "earliest": "2026-11-02",
+          "latest": "2026-12-03",
+          "days_after_shutdown": [
+            64.0,
+            94.9
+          ],
+          "latest_at_grid_limit": false
+        },
+        "output_95pct": {
+          "earliest": "2026-10-29",
+          "latest": "2026-11-24",
+          "days_after_shutdown": [
+            59.6,
+            85.6
+          ],
+          "latest_at_grid_limit": false
+        }
+      }
+    },
+    "Palmachim": {
+      "P1 plateau, published ranges, any values": {
+        "earliest": "2026-09-21",
+        "latest": "2026-10-11",
+        "days_after_shutdown": [
+          22.0,
+          42.0
+        ]
+      },
+      "P1 plateau, published ranges, at base values": {
+        "earliest": "2026-10-01",
+        "latest": "2026-10-01",
+        "days_after_shutdown": [
+          32.0,
+          32.0
+        ]
+      },
+      "P1 plateau, published ranges, best fits": {
+        "best_misfit": 0.15,
+        "fits_kept": 58910,
+        "full_output": {
+          "earliest": "2026-09-21",
+          "latest": "2026-10-05",
+          "days_after_shutdown": [
+            22.0,
+            36.0
+          ],
+          "latest_at_grid_limit": false
+        }
+      },
+      "P1 plateau, free ranges, best fits": {
+        "best_misfit": 0.15,
+        "fits_kept": 2769,
+        "full_output": {
+          "earliest": "2026-09-11",
+          "latest": "2026-10-05",
+          "days_after_shutdown": [
+            12.0,
+            36.0
+          ],
+          "latest_at_grid_limit": false
+        }
+      },
+      "Rising, free ranges, best fits": {
+        "best_misfit": 0.044,
+        "fits_kept": 57,
+        "full_output": {
+          "earliest": "2026-10-19",
+          "latest": "2026-10-28",
+          "days_after_shutdown": [
+            50.3,
+            59.3
+          ],
+          "latest_at_grid_limit": false
+        },
+        "output_95pct": {
+          "earliest": "2026-10-16",
+          "latest": "2026-10-23",
+          "days_after_shutdown": [
+            46.7,
+            53.8
+          ],
+          "latest_at_grid_limit": false
+        }
+      }
+    }
+  }
+}

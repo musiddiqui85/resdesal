@@ -1,0 +1,5 @@
+dc_share,basis,switching_med_capex,note,switching_msf_capex,msf_note
+0.4,capital,3398.3462706709815,designs with MED are cheaper below this MED capital cost,1387.9805615546957,designs with MSF are cheaper below this MSF capital cost
+0.4,lifecycle,1508.5017427518778,designs with MED are cheaper below this MED capital cost,,designs without MSF are cheaper even with no MSF premium over SWRO
+0.5,capital,3545.1569355372612,designs with MED are cheaper below this MED capital cost,1412.699784017559,designs with MSF are cheaper below this MSF capital cost
+0.5,lifecycle,1688.1755039637483,designs with MED are cheaper below this MED capital cost,,designs without MSF are cheaper even with no MSF premium over SWRO

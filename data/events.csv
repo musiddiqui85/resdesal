@@ -1,0 +1,20 @@
+label,kind,days_low,days_high,note,level,source,refs,plot
+"Fujairah 1 SWRO, UAE, 2008",bloom,7,7,>1 week; MSF on site kept running,read,IOC78 Ch. 2 p. 63,ioc78;alotaibi2022,1
+"Al Ghalilah, RAK, 2008",bloom,4,4,>=4 d supply cut to homes,read,"The National, 2 Nov 2008",thenational2008,1
+"Barka (unit unknown), Oman, 2008-09",bloom,55,55,"55 d, news quoting experts",secondary,"MEDRC project page; Oman Observer 2019, 2023",medrc2015;omanobs2019,1
+"Sohar Refinery SWRO, Oman, 2008-09",bloom,120,120,about 4 months; all membranes replaced,read,IOC78 Ch. 11 p. 335,ioc78ch11,1
+"Barka II SWRO, Oman, 2018",bloom,17,45,impacted since February; still impacted 17 Mar,read,"Oman Observer, 10 and 17 Mar 2018",omanobs2018;omanobs2018b,1
+"Barka 1 RO expansions, Oman, 2018",derate,14,14,>=2 weeks partial operation,read,"Oman Observer, 5 Aug 2018",omanobs2018c,1
+"Majis SWRO, Sohar, Oman, 2013",derate,180,180,bloom ~6 months; output held to <=88%,read,IOC78 Ch. 11 pp. 355-363,ioc78ch11,1
+"Israel: Sorek B, Palmachim, 2026",bloom,2,3,"full outage, then partial restart",read,Ynet 1 and 2 Sep; Calcalist 2 Sep 2026,ynet_0901;ynet_0902;ctech2026_0902,1
+"Israel: Sorek A, 2026",bloom,7,7,about 7 d with on-off cycling,read,"Ynet 1, 2 and 6 Sep 2026",ynet_0901;ynet_0902;ynet_0906,1
+"Israel: Ashdod, Ashkelon, 2026",bloom,11,12,full outage,read,Ynet 1 Sep; Calcalist 7 Sep; Ynet 10 Sep 2026,ynet_0901;ctech2026sep;ynet_resume,1
+"Israel: derated after restart, 2026",derate,33,45,40-85% of capacity until day 33-45+ after onset,read,Ynet 10 Sep; Calcalist 6 Oct; ToI 13 Oct 2026,ynet_resume;ctech2026;toi2026,1
+2008-09 bloom in the region,presence,150,240,bloom present 5 to >8 months,read,Al-Azri et al. 2014 (R4); IOC78 Ch. 11 p. 350,alazri2014;ioc78ch11,1
+"Sharjah, UAE, 2001 (tanker Zainab)",oil,0.125,0.25,"precautionary closure, 3-6 h",read,"Gulf News; Business Report, Apr 2001",gn2001;br2001,1
+"Al Layyah, Sharjah, 1997 (barge Safa 255)",oil,2,2,>=2 d without pumping,read,"IPS, 19 Jul 1997",ips1997,1
+"Az-Zour, Kuwait, 2017",oil,2,2,production cut ~2 d (power or water unclear),snippet,"Kuwait Times, 14 Aug 2017",kt2017,1
+"Three Israeli plants, 2017 (pipeline leak)",oil,3,3,shut 3 days,read,"Times of Israel, 19 Mar 2021",toi2021,1
+"Fujairah 2 (DAF+SWRO, MED), 2011-14",bloom,0,0,no outage in 6 events; DAF pilot ran through 2008,read,IOC78 Ch. 11 pp. 348-353,ioc78ch11,0
+"Shuwaikh (DAF+UF+SWRO), Kuwait, 2012/14",bloom,0,0,no output loss in ~10-day blooms,read,IOC78 Ch. 11 pp. 384-386,ioc78ch11,0
+"Khafji, Saudi Arabia, 1991",oil,0,0,closed; intakes clogged with oil; duration unknown,read,"CSMonitor, 1 Feb 1991",csm1991,0

@@ -1,0 +1,305 @@
+parameter,value,dc_share,family,basis,design,steam,capital_musd,lifecycle_musd
+Base costs,1400.0,0.4,With MSF,capital,7/2/0/1/4.5,CCGT,212.825,552.0550550425958
+Base costs,1400.0,0.4,With MSF,lifecycle,7/2/0/1/4.5,boiler,249.34420438957477,537.8990675716378
+Base costs,1400.0,0.4,With MED and MSF,capital,4/2/1/1/4.5,CCGT,211.814,606.2427737360111
+Base costs,1400.0,0.4,With MED and MSF,lifecycle,4/2/1/1/4.5,boiler,260.30801920438955,601.8668804454929
+Base costs,1400.0,0.4,With MED,capital,4/2/4/0/4.5,CCGT,145.881,440.04100767235803
+Base costs,1400.0,0.4,With MED,lifecycle,12/2/2/0/5,CCGT,176.103,369.9823371821487
+Base costs,1400.0,0.4,No thermal,capital,14/2/0/0/8,-,294.525,377.9107577340972
+Base costs,1400.0,0.4,No thermal,lifecycle,14/2/0/0/8,-,294.525,377.9107577340972
+Base costs,1400.0,0.5,With MSF,capital,4/2/0/2/4.5,CCGT,344.125,977.6823974014826
+Base costs,1400.0,0.5,With MSF,lifecycle,9/2/0/1/7,boiler,439.54420438957476,757.0946392170305
+Base costs,1400.0,0.5,With MED and MSF,capital,7/2/2/1/4.5,CCGT,279.203,757.2929126444141
+Base costs,1400.0,0.5,With MED and MSF,lifecycle,10/2/1/1/5,boiler,355.7080192043896,728.8757681186089
+Base costs,1400.0,0.5,With MED,capital,5/2/6/0/4.5,CCGT,215.559,652.3786617392357
+Base costs,1400.0,0.5,With MED,lifecycle,9/2/4/0/5.5,CCGT,264.981,590.0965663385432
+Base costs,1400.0,0.5,No thermal,capital,14/2/0/0/10.5,-,515.925,625.111790890751
+Base costs,1400.0,0.5,No thermal,lifecycle,14/2/0/0/10.5,-,515.925,625.111790890751
+"MED capital, USD per m³/d",1100.0,0.4,With MSF,capital,7/2/0/1/4.5,CCGT,212.825,552.0550550425958
+"MED capital, USD per m³/d",1100.0,0.4,With MSF,lifecycle,7/2/0/1/4.5,boiler,249.34420438957477,537.8990675716378
+"MED capital, USD per m³/d",1100.0,0.4,With MED and MSF,capital,0/2/5/1/4.5,CCGT,189.725,824.9881501429978
+"MED capital, USD per m³/d",1100.0,0.4,With MED and MSF,lifecycle,4/2/1/1/4.5,boiler,251.41901920438957,590.9061064280631
+"MED capital, USD per m³/d",1100.0,0.4,With MED,capital,0/2/8/0/4.5,CCGT,97.125,625.904062027055
+"MED capital, USD per m³/d",1100.0,0.4,With MED,lifecycle,12/2/2/0/5,CCGT,158.325,348.0607891472888
+"MED capital, USD per m³/d",1100.0,0.4,No thermal,capital,14/2/0/0/8,-,294.525,377.9107577340972
+"MED capital, USD per m³/d",1100.0,0.4,No thermal,lifecycle,14/2/0/0/8,-,294.525,377.9107577340972
+"MED capital, USD per m³/d",1100.0,0.5,With MSF,capital,4/2/0/2/4.5,CCGT,344.125,977.6823974014826
+"MED capital, USD per m³/d",1100.0,0.5,With MSF,lifecycle,9/2/0/1/7,boiler,439.54420438957476,757.0946392170305
+"MED capital, USD per m³/d",1100.0,0.5,With MED and MSF,capital,0/2/7/1/4.5,CCGT,238.325,1008.3044597099564
+"MED capital, USD per m³/d",1100.0,0.5,With MED and MSF,lifecycle,10/2/1/1/5,boiler,346.8190192043896,717.9149941011791
+"MED capital, USD per m³/d",1100.0,0.5,With MED,capital,0/2/11/0/4.5,CCGT,145.725,873.7467056651768
+"MED capital, USD per m³/d",1100.0,0.5,With MED,lifecycle,8/2/5/0/4.5,CCGT,172.125,543.3870729586705
+"MED capital, USD per m³/d",1100.0,0.5,No thermal,capital,14/2/0/0/10.5,-,515.925,625.111790890751
+"MED capital, USD per m³/d",1100.0,0.5,No thermal,lifecycle,14/2/0/0/10.5,-,515.925,625.111790890751
+"MED capital, USD per m³/d",2300.0,0.4,With MSF,capital,7/2/0/1/4.5,CCGT,212.825,552.0550550425958
+"MED capital, USD per m³/d",2300.0,0.4,With MSF,lifecycle,7/2/0/1/4.5,boiler,249.34420438957477,537.8990675716378
+"MED capital, USD per m³/d",2300.0,0.4,With MED and MSF,capital,4/2/1/1/4.5,CCGT,238.481,639.125095788301
+"MED capital, USD per m³/d",2300.0,0.4,With MED and MSF,lifecycle,4/2/1/1/4.5,boiler,286.9750192043896,634.7492024977829
+"MED capital, USD per m³/d",2300.0,0.4,With MED,capital,12/2/2/0/5,CCGT,229.437,435.7469812867283
+"MED capital, USD per m³/d",2300.0,0.4,With MED,lifecycle,11/2/1/0/7,CCGT,276.981,416.7464505467969
+"MED capital, USD per m³/d",2300.0,0.4,No thermal,capital,14/2/0/0/8,-,294.525,377.9107577340972
+"MED capital, USD per m³/d",2300.0,0.4,No thermal,lifecycle,14/2/0/0/8,-,294.525,377.9107577340972
+"MED capital, USD per m³/d",2300.0,0.5,With MSF,capital,4/2/0/2/4.5,CCGT,344.125,977.6823974014826
+"MED capital, USD per m³/d",2300.0,0.5,With MSF,lifecycle,9/2/0/1/7,boiler,439.54420438957476,757.0946392170305
+"MED capital, USD per m³/d",2300.0,0.5,With MED and MSF,capital,7/2/2/1/4.5,CCGT,332.537,823.0575567489936
+"MED capital, USD per m³/d",2300.0,0.5,With MED and MSF,lifecycle,10/2/1/1/5,boiler,382.37501920438956,761.7580901708989
+"MED capital, USD per m³/d",2300.0,0.5,With MED,capital,8/2/5/0/4.5,CCGT,349.905,762.6025533072693
+"MED capital, USD per m³/d",2300.0,0.5,With MED,lifecycle,11/2/2/0/8,CCGT,442.137,669.8189244866969
+"MED capital, USD per m³/d",2300.0,0.5,No thermal,capital,14/2/0/0/10.5,-,515.925,625.111790890751
+"MED capital, USD per m³/d",2300.0,0.5,No thermal,lifecycle,14/2/0/0/10.5,-,515.925,625.111790890751
+"DAF + UF premium, % of SWRO capital",0.05,0.4,With MSF,capital,7/2/0/1/4.5,CCGT,204.1625,541.3735717569632
+"DAF + UF premium, % of SWRO capital",0.05,0.4,With MSF,lifecycle,7/2/0/1/4.5,boiler,240.68170438957478,527.2175842860055
+"DAF + UF premium, % of SWRO capital",0.05,0.4,With MED and MSF,capital,4/2/1/1/4.5,CCGT,206.864,600.139069001364
+"DAF + UF premium, % of SWRO capital",0.05,0.4,With MED and MSF,lifecycle,4/2/1/1/4.5,boiler,255.35801920438956,595.763175710846
+"DAF + UF premium, % of SWRO capital",0.05,0.4,With MED,capital,8/2/3/0/4.5,CCGT,140.292,380.7456759747077
+"DAF + UF premium, % of SWRO capital",0.05,0.4,With MED,lifecycle,12/2/2/0/5,CCGT,161.253,351.67122297820737
+"DAF + UF premium, % of SWRO capital",0.05,0.4,No thermal,capital,14/2/0/0/8,-,277.2,356.5477911628323
+"DAF + UF premium, % of SWRO capital",0.05,0.4,No thermal,lifecycle,14/2/0/0/8,-,277.2,356.5477911628323
+"DAF + UF premium, % of SWRO capital",0.05,0.5,With MSF,capital,4/2/0/2/4.5,CCGT,339.175,971.5786926668354
+"DAF + UF premium, % of SWRO capital",0.05,0.5,With MSF,lifecycle,9/2/0/1/7,boiler,428.40670438957477,743.3613035640745
+"DAF + UF premium, % of SWRO capital",0.05,0.5,With MED and MSF,capital,7/2/2/1/4.5,CCGT,270.5405,746.6114293587816
+"DAF + UF premium, % of SWRO capital",0.05,0.5,With MED and MSF,lifecycle,10/2/1/1/5,boiler,343.3330192043896,713.6165062819913
+"DAF + UF premium, % of SWRO capital",0.05,0.5,With MED,capital,8/2/5/0/4.5,CCGT,206.67,585.9835335765259
+"DAF + UF premium, % of SWRO capital",0.05,0.5,With MED,lifecycle,9/2/4/0/5.5,CCGT,253.8435,576.3632306855872
+"DAF + UF premium, % of SWRO capital",0.05,0.5,No thermal,capital,14/2/0/0/10.5,-,498.6,603.7488243194861
+"DAF + UF premium, % of SWRO capital",0.05,0.5,No thermal,lifecycle,14/2/0/0/10.5,-,498.6,603.7488243194861
+"DAF + UF premium, % of SWRO capital",0.18,0.4,With MSF,capital,7/2/0/1/4.5,CCGT,241.7,587.6599993280373
+"DAF + UF premium, % of SWRO capital",0.18,0.4,With MSF,lifecycle,7/2/0/1/4.5,boiler,278.21920438957477,573.5040118570795
+"DAF + UF premium, % of SWRO capital",0.18,0.4,With MED and MSF,capital,4/2/1/1/4.5,CCGT,228.314,626.588456184835
+"DAF + UF premium, % of SWRO capital",0.18,0.4,With MED and MSF,lifecycle,4/2/1/1/4.5,boiler,276.80801920438955,622.2125628943168
+"DAF + UF premium, % of SWRO capital",0.18,0.4,With MED,capital,4/2/4/0/4.5,CCGT,162.381,460.38669012118174
+"DAF + UF premium, % of SWRO capital",0.18,0.4,With MED,lifecycle,10/2/2/0/5.5,CCGT,232.353,430.76412434059205
+"DAF + UF premium, % of SWRO capital",0.18,0.4,No thermal,capital,14/2/0/0/8,-,352.275,449.12064630498026
+"DAF + UF premium, % of SWRO capital",0.18,0.4,No thermal,lifecycle,14/2/0/0/8,-,352.275,449.12064630498026
+"DAF + UF premium, % of SWRO capital",0.18,0.5,With MSF,capital,4/2/0/2/4.5,CCGT,360.625,998.0280798503063
+"DAF + UF premium, % of SWRO capital",0.18,0.5,With MSF,lifecycle,9/2/0/1/7,boiler,476.66920438957476,802.8724247268839
+"DAF + UF premium, % of SWRO capital",0.18,0.5,With MED and MSF,capital,3/2/4/1/4.5,CCGT,296.156,895.1272047979813
+"DAF + UF premium, % of SWRO capital",0.18,0.5,With MED and MSF,lifecycle,10/2/1/1/5,boiler,396.9580192043896,779.7399742406683
+"DAF + UF premium, % of SWRO capital",0.18,0.5,With MED,capital,2/2/8/0/4.5,CCGT,231.687,792.2263297456565
+"DAF + UF premium, % of SWRO capital",0.18,0.5,With MED,lifecycle,9/2/4/0/5.5,CCGT,302.106,635.8743518483965
+"DAF + UF premium, % of SWRO capital",0.18,0.5,No thermal,capital,14/2/0/0/10.5,-,573.675,696.3216794616341
+"DAF + UF premium, % of SWRO capital",0.18,0.5,No thermal,lifecycle,14/2/0/0/10.5,-,573.675,696.3216794616341
+"Subsurface intake premium, % of SWRO capital",0.045,0.4,With MSF,capital,7/2/0/1/4.5,CCGT,205.8125,543.4081400018456
+"Subsurface intake premium, % of SWRO capital",0.045,0.4,With MSF,lifecycle,7/2/0/1/4.5,boiler,242.33170438957475,529.2521525308879
+"Subsurface intake premium, % of SWRO capital",0.045,0.4,With MED and MSF,capital,4/2/1/1/4.5,CCGT,204.8015,597.595858695261
+"Subsurface intake premium, % of SWRO capital",0.045,0.4,With MED and MSF,lifecycle,4/2/1/1/4.5,boiler,253.29551920438956,593.219965404743
+"Subsurface intake premium, % of SWRO capital",0.045,0.4,With MED,capital,4/2/4/0/4.5,CCGT,138.8685,431.394092631608
+"Subsurface intake premium, % of SWRO capital",0.045,0.4,With MED,lifecycle,12/2/2/0/5,CCGT,169.0905,361.33542214139857
+"Subsurface intake premium, % of SWRO capital",0.045,0.4,No thermal,capital,14/2/0/0/8,-,287.5125,369.26384269334716
+"Subsurface intake premium, % of SWRO capital",0.045,0.4,No thermal,lifecycle,14/2/0/0/8,-,287.5125,369.26384269334716
+"Subsurface intake premium, % of SWRO capital",0.045,0.5,With MSF,capital,4/2/0/2/4.5,CCGT,337.1125,969.0354823607325
+"Subsurface intake premium, % of SWRO capital",0.045,0.5,With MSF,lifecycle,9/2/0/1/7,boiler,432.53170438957477,748.4477241762804
+"Subsurface intake premium, % of SWRO capital",0.045,0.5,With MED and MSF,capital,7/2/2/1/4.5,CCGT,272.1905,748.6459976036639
+"Subsurface intake premium, % of SWRO capital",0.045,0.5,With MED and MSF,lifecycle,10/2/1/1/5,boiler,348.6955192043896,720.228853077859
+"Subsurface intake premium, % of SWRO capital",0.045,0.5,With MED,capital,5/2/6/0/4.5,CCGT,208.5465,643.7317466984856
+"Subsurface intake premium, % of SWRO capital",0.045,0.5,With MED,lifecycle,9/2/4/0/5.5,CCGT,257.9685,581.449651297793
+"Subsurface intake premium, % of SWRO capital",0.045,0.5,No thermal,capital,14/2/0/0/10.5,-,508.9125,616.4648758500009
+"Subsurface intake premium, % of SWRO capital",0.045,0.5,No thermal,lifecycle,14/2/0/0/10.5,-,508.9125,616.4648758500009
+"Subsurface intake premium, % of SWRO capital",0.2,0.4,With MSF,capital,7/2/0/1/4.5,CCGT,218.6,559.1760438996839
+"Subsurface intake premium, % of SWRO capital",0.2,0.4,With MSF,lifecycle,7/2/0/1/4.5,boiler,255.11920438957478,545.0200564287262
+"Subsurface intake premium, % of SWRO capital",0.2,0.4,With MED and MSF,capital,4/2/1/1/4.5,CCGT,217.589,613.3637625930995
+"Subsurface intake premium, % of SWRO capital",0.2,0.4,With MED and MSF,lifecycle,4/2/1/1/4.5,boiler,266.0830192043896,608.9878693025813
+"Subsurface intake premium, % of SWRO capital",0.2,0.4,With MED,capital,4/2/4/0/4.5,CCGT,151.656,447.1619965294463
+"Subsurface intake premium, % of SWRO capital",0.2,0.4,With MED,lifecycle,12/2/2/0/5,CCGT,181.878,377.103326039237
+"Subsurface intake premium, % of SWRO capital",0.2,0.4,No thermal,capital,14/2/0/0/8,-,300.3,385.0317465911856
+"Subsurface intake premium, % of SWRO capital",0.2,0.4,No thermal,lifecycle,14/2/0/0/8,-,300.3,385.0317465911856
+"Subsurface intake premium, % of SWRO capital",0.2,0.5,With MSF,capital,4/2/0/2/4.5,CCGT,349.9,984.8033862585709
+"Subsurface intake premium, % of SWRO capital",0.2,0.5,With MSF,lifecycle,9/2/0/1/7,boiler,445.3192043895748,764.2156280741187
+"Subsurface intake premium, % of SWRO capital",0.2,0.5,With MED and MSF,capital,7/2/2/1/4.5,CCGT,284.978,764.4139015015023
+"Subsurface intake premium, % of SWRO capital",0.2,0.5,With MED and MSF,lifecycle,10/2/1/1/5,boiler,361.48301920438956,735.9967569756973
+"Subsurface intake premium, % of SWRO capital",0.2,0.5,With MED,capital,5/2/6/0/4.5,CCGT,221.334,659.4996505963239
+"Subsurface intake premium, % of SWRO capital",0.2,0.5,With MED,lifecycle,9/2/4/0/5.5,CCGT,270.756,597.2175551956313
+"Subsurface intake premium, % of SWRO capital",0.2,0.5,No thermal,capital,14/2/0/0/10.5,-,521.7,632.2327797478392
+"Subsurface intake premium, % of SWRO capital",0.2,0.5,No thermal,lifecycle,14/2/0/0/10.5,-,521.7,632.2327797478392
+"Storage capital, USD per m³",160.0,0.4,With MSF,capital,7/2/0/1/4.5,CCGT,203.225,541.3363110574834
+"Storage capital, USD per m³",160.0,0.4,With MSF,lifecycle,7/2/0/1/4.5,boiler,239.74420438957478,527.1803235865256
+"Storage capital, USD per m³",160.0,0.4,With MED and MSF,capital,4/2/1/1/4.5,CCGT,202.214,595.5240297508989
+"Storage capital, USD per m³",160.0,0.4,With MED and MSF,lifecycle,4/2/1/1/4.5,boiler,250.7080192043896,591.1481364603808
+"Storage capital, USD per m³",160.0,0.4,With MED,capital,4/2/4/0/4.5,CCGT,136.281,429.32226368724565
+"Storage capital, USD per m³",160.0,0.4,With MED,lifecycle,12/2/2/0/5,CCGT,164.103,356.58390720075823
+"Storage capital, USD per m³",160.0,0.4,No thermal,capital,14/2/0/0/8,-,268.125,348.43421177503825
+"Storage capital, USD per m³",160.0,0.4,No thermal,lifecycle,14/2/0/0/8,-,268.125,348.43421177503825
+"Storage capital, USD per m³",160.0,0.5,With MSF,capital,4/2/0/2/4.5,CCGT,329.125,960.9343599247445
+"Storage capital, USD per m³",160.0,0.5,With MSF,lifecycle,9/2/0/1/7,boiler,409.54420438957476,723.5985642635543
+"Storage capital, USD per m³",160.0,0.5,With MED and MSF,capital,7/2/2/1/4.5,CCGT,264.203,740.544875167676
+"Storage capital, USD per m³",160.0,0.5,With MED and MSF,lifecycle,10/2/1/1/5,boiler,337.7080192043896,708.7781231465234
+"Storage capital, USD per m³",160.0,0.5,With MED,capital,5/2/6/0/4.5,CCGT,200.559,635.6306242624977
+"Storage capital, USD per m³",160.0,0.5,With MED,lifecycle,11/2/2/0/8,CCGT,352.803,563.858990437946
+"Storage capital, USD per m³",160.0,0.5,No thermal,capital,14/2/0/0/10.5,-,464.925,568.1684634698416
+"Storage capital, USD per m³",160.0,0.5,No thermal,lifecycle,14/2/0/0/10.5,-,464.925,568.1684634698416
+"Storage capital, USD per m³",200.0,0.4,With MSF,capital,7/2/0/1/4.5,CCGT,222.425,562.773799027708
+"Storage capital, USD per m³",200.0,0.4,With MSF,lifecycle,7/2/0/1/4.5,boiler,258.9442043895748,548.6178115567503
+"Storage capital, USD per m³",200.0,0.4,With MED and MSF,capital,4/2/1/1/4.5,CCGT,221.414,616.9615177211234
+"Storage capital, USD per m³",200.0,0.4,With MED and MSF,lifecycle,4/2/1/1/4.5,boiler,269.9080192043896,612.5856244306054
+"Storage capital, USD per m³",200.0,0.4,With MED,capital,4/2/4/0/4.5,CCGT,155.481,450.75975165747036
+"Storage capital, USD per m³",200.0,0.4,With MED,lifecycle,12/2/2/0/5,CCGT,188.103,383.38076716353913
+"Storage capital, USD per m³",200.0,0.4,No thermal,capital,14/2/0/0/8,-,320.925,407.38730369315624
+"Storage capital, USD per m³",200.0,0.4,No thermal,lifecycle,14/2/0/0/8,-,320.925,407.38730369315624
+"Storage capital, USD per m³",200.0,0.5,With MSF,capital,4/2/0/2/4.5,CCGT,359.125,994.4304348782207
+"Storage capital, USD per m³",200.0,0.5,With MSF,lifecycle,9/2/0/1/7,boiler,469.54420438957476,790.5907141705065
+"Storage capital, USD per m³",200.0,0.5,With MED and MSF,capital,7/2/2/1/4.5,CCGT,294.203,774.0409501211522
+"Storage capital, USD per m³",200.0,0.5,With MED and MSF,lifecycle,10/2/1/1/5,boiler,373.7080192043896,748.9734130906946
+"Storage capital, USD per m³",200.0,0.5,With MED,capital,5/2/6/0/4.5,CCGT,230.559,669.1266992159738
+"Storage capital, USD per m³",200.0,0.5,With MED,lifecycle,9/2/4/0/5.5,CCGT,285.981,613.5438188059763
+"Storage capital, USD per m³",200.0,0.5,No thermal,capital,14/2/0/0/10.5,-,566.925,682.0551183116604
+"Storage capital, USD per m³",200.0,0.5,No thermal,lifecycle,14/2/0/0/10.5,-,566.925,682.0551183116604
+"CCGT steam penalty, kWh per m³",7.0,0.4,With MSF,capital,7/2/0/1/4.5,CCGT,212.825,552.0550550425958
+"CCGT steam penalty, kWh per m³",7.0,0.4,With MSF,lifecycle,7/2/0/1/4.5,boiler,249.34420438957477,537.8990675716378
+"CCGT steam penalty, kWh per m³",7.0,0.4,With MED and MSF,capital,4/2/1/1/4.5,CCGT,211.814,575.515947987838
+"CCGT steam penalty, kWh per m³",7.0,0.4,With MED and MSF,lifecycle,4/2/1/1/4.5,CCGT,211.814,575.515947987838
+"CCGT steam penalty, kWh per m³",7.0,0.4,With MED,capital,4/2/4/0/4.5,CCGT,145.881,317.1337046796656
+"CCGT steam penalty, kWh per m³",7.0,0.4,With MED,lifecycle,8/2/3/0/4.5,CCGT,150.192,300.77260819948253
+"CCGT steam penalty, kWh per m³",7.0,0.4,No thermal,capital,14/2/0/0/8,-,294.525,377.9107577340972
+"CCGT steam penalty, kWh per m³",7.0,0.4,No thermal,lifecycle,14/2/0/0/8,-,294.525,377.9107577340972
+"CCGT steam penalty, kWh per m³",7.0,0.5,With MSF,capital,4/2/0/2/4.5,CCGT,344.125,977.6823974014826
+"CCGT steam penalty, kWh per m³",7.0,0.5,With MSF,lifecycle,9/2/0/1/7,boiler,439.54420438957476,757.0946392170305
+"CCGT steam penalty, kWh per m³",7.0,0.5,With MED and MSF,capital,7/2/2/1/4.5,CCGT,279.203,695.8392611480677
+"CCGT steam penalty, kWh per m³",7.0,0.5,With MED and MSF,lifecycle,7/2/2/1/4.5,CCGT,279.203,695.8392611480677
+"CCGT steam penalty, kWh per m³",7.0,0.5,With MED,capital,5/2/6/0/4.5,CCGT,215.559,468.0177072501969
+"CCGT steam penalty, kWh per m³",7.0,0.5,With MED,lifecycle,8/2/5/0/4.5,CCGT,216.57,444.5568143049546
+"CCGT steam penalty, kWh per m³",7.0,0.5,No thermal,capital,14/2/0/0/10.5,-,515.925,625.111790890751
+"CCGT steam penalty, kWh per m³",7.0,0.5,No thermal,lifecycle,14/2/0/0/10.5,-,515.925,625.111790890751
+"CCGT steam penalty, kWh per m³",18.0,0.4,With MSF,capital,7/2/0/1/4.5,CCGT,212.825,552.0550550425958
+"CCGT steam penalty, kWh per m³",18.0,0.4,With MSF,lifecycle,7/2/0/1/4.5,boiler,249.34420438957477,537.8990675716378
+"CCGT steam penalty, kWh per m³",18.0,0.4,With MED and MSF,capital,4/2/1/1/4.5,CCGT,211.814,643.1149646338189
+"CCGT steam penalty, kWh per m³",18.0,0.4,With MED and MSF,lifecycle,4/2/1/1/4.5,boiler,260.30801920438955,601.8668804454929
+"CCGT steam penalty, kWh per m³",18.0,0.4,With MED,capital,4/2/4/0/4.5,CCGT,145.881,587.5297712635889
+"CCGT steam penalty, kWh per m³",18.0,0.4,With MED,lifecycle,12/2/2/0/5,boiler,200.05262962962965,389.54252554302815
+"CCGT steam penalty, kWh per m³",18.0,0.4,No thermal,capital,14/2/0/0/8,-,294.525,377.9107577340972
+"CCGT steam penalty, kWh per m³",18.0,0.4,No thermal,lifecycle,14/2/0/0/8,-,294.525,377.9107577340972
+"CCGT steam penalty, kWh per m³",18.0,0.5,With MSF,capital,4/2/0/2/4.5,CCGT,344.125,977.6823974014826
+"CCGT steam penalty, kWh per m³",18.0,0.5,With MSF,lifecycle,9/2/0/1/7,boiler,439.54420438957476,757.0946392170305
+"CCGT steam penalty, kWh per m³",18.0,0.5,With MED and MSF,capital,7/2/2/1/4.5,CCGT,279.203,831.0372944400294
+"CCGT steam penalty, kWh per m³",18.0,0.5,With MED and MSF,lifecycle,10/2/1/1/5,boiler,355.7080192043896,728.8757681186089
+"CCGT steam penalty, kWh per m³",18.0,0.5,With MED,capital,5/2/6/0/4.5,CCGT,215.559,873.6118071260821
+"CCGT steam penalty, kWh per m³",18.0,0.5,With MED,lifecycle,11/2/2/0/8,boiler,412.7526296296296,623.6144687429968
+"CCGT steam penalty, kWh per m³",18.0,0.5,No thermal,capital,14/2/0/0/10.5,-,515.925,625.111790890751
+"CCGT steam penalty, kWh per m³",18.0,0.5,No thermal,lifecycle,14/2/0/0/10.5,-,515.925,625.111790890751
+"Electricity price, USD per kWh",0.032,0.4,With MSF,capital,7/2/0/1/4.5,CCGT,212.825,441.71366372279454
+"Electricity price, USD per kWh",0.032,0.4,With MSF,lifecycle,7/2/0/1/4.5,CCGT,212.825,441.71366372279454
+"Electricity price, USD per kWh",0.032,0.4,With MED and MSF,capital,4/2/1/1/4.5,CCGT,211.814,470.3343443880131
+"Electricity price, USD per kWh",0.032,0.4,With MED and MSF,lifecycle,4/2/1/1/4.5,CCGT,211.814,470.3343443880131
+"Electricity price, USD per kWh",0.032,0.4,With MED,capital,4/2/4/0/4.5,CCGT,145.881,337.7728555595705
+"Electricity price, USD per kWh",0.032,0.4,With MED,lifecycle,8/2/3/0/4.5,CCGT,150.192,316.2519713594113
+"Electricity price, USD per kWh",0.032,0.4,No thermal,capital,14/2/0/0/8,-,294.525,377.9107577340972
+"Electricity price, USD per kWh",0.032,0.4,No thermal,lifecycle,14/2/0/0/8,-,294.525,377.9107577340972
+"Electricity price, USD per kWh",0.032,0.5,With MSF,capital,4/2/0/2/4.5,CCGT,344.125,756.9996147618803
+"Electricity price, USD per kWh",0.032,0.5,With MSF,lifecycle,9/2/0/1/7,CCGT,403.025,660.9092353681871
+"Electricity price, USD per kWh",0.032,0.5,With MED and MSF,capital,7/2/2/1/4.5,CCGT,279.203,595.8174452682191
+"Electricity price, USD per kWh",0.032,0.5,With MED and MSF,lifecycle,7/2/2/1/4.5,CCGT,279.203,595.8174452682191
+"Electricity price, USD per kWh",0.032,0.5,With MED,capital,5/2/6/0/4.5,CCGT,215.559,498.9764335700543
+"Electricity price, USD per kWh",0.032,0.5,With MED,lifecycle,8/2/5/0/4.5,CCGT,216.57,470.3557529048358
+"Electricity price, USD per kWh",0.032,0.5,No thermal,capital,14/2/0/0/10.5,-,515.925,625.111790890751
+"Electricity price, USD per kWh",0.032,0.5,No thermal,lifecycle,14/2/0/0/10.5,-,515.925,625.111790890751
+"Electricity price, USD per kWh",0.064,0.4,With MSF,capital,7/2/0/1/4.5,CCGT,212.825,609.8529266863011
+"Electricity price, USD per kWh",0.064,0.4,With MSF,lifecycle,7/2/0/1/4.5,boiler,249.34420438957477,539.8920976283174
+"Electricity price, USD per kWh",0.064,0.4,With MED and MSF,capital,4/2/1/1/4.5,CCGT,211.814,677.4329033944864
+"Electricity price, USD per kWh",0.064,0.4,With MED and MSF,lifecycle,4/2/1/1/4.5,boiler,260.30801920438955,601.9467307857768
+"Electricity price, USD per kWh",0.064,0.4,With MED,capital,4/2/4/0/4.5,CCGT,145.881,493.61003973143715
+"Electricity price, USD per kWh",0.064,0.4,With MED,lifecycle,12/2/2/0/5,boiler,200.05262962962965,385.7161661102368
+"Electricity price, USD per kWh",0.064,0.4,No thermal,capital,14/2/0/0/8,-,294.525,377.9107577340972
+"Electricity price, USD per kWh",0.064,0.4,No thermal,lifecycle,14/2/0/0/8,-,294.525,377.9107577340972
+"Electricity price, USD per kWh",0.064,0.5,With MSF,capital,4/2/0/2/4.5,CCGT,344.125,1093.2781406888932
+"Electricity price, USD per kWh",0.064,0.5,With MSF,lifecycle,9/2/0/1/7,boiler,439.54420438957476,759.08766927371
+"Electricity price, USD per kWh",0.064,0.5,With MED and MSF,capital,7/2/2/1/4.5,CCGT,279.203,841.875300317659
+"Electricity price, USD per kWh",0.064,0.5,With MED and MSF,lifecycle,10/2/1/1/5,boiler,355.7080192043896,728.9556184588928
+"Electricity price, USD per kWh",0.064,0.5,With MED,capital,5/2/6/0/4.5,CCGT,215.559,732.7322098278544
+"Electricity price, USD per kWh",0.064,0.5,With MED,lifecycle,11/2/2/0/8,boiler,412.7526296296296,619.7881093102054
+"Electricity price, USD per kWh",0.064,0.5,No thermal,capital,14/2/0/0/10.5,-,515.925,625.111790890751
+"Electricity price, USD per kWh",0.064,0.5,No thermal,lifecycle,14/2/0/0/10.5,-,515.925,625.111790890751
+Discount rate,0.04,0.4,With MSF,capital,7/2/0/1/4.5,CCGT,212.825,667.576037350784
+Discount rate,0.04,0.4,With MSF,lifecycle,7/2/0/1/4.5,boiler,249.34420438957477,636.1631828794964
+Discount rate,0.04,0.4,With MED and MSF,capital,4/2/1/1/4.5,CCGT,211.814,740.5610592631491
+Discount rate,0.04,0.4,With MED and MSF,lifecycle,4/2/1/1/4.5,boiler,260.30801920438955,718.1809115288648
+Discount rate,0.04,0.4,With MED,capital,4/2/4/0/4.5,CCGT,145.881,540.2138919347152
+Discount rate,0.04,0.4,With MED,lifecycle,11/2/1/0/7,CCGT,250.314,429.34312365350905
+Discount rate,0.04,0.4,No thermal,capital,14/2/0/0/8,-,294.525,406.30684027680104
+Discount rate,0.04,0.4,No thermal,lifecycle,14/2/0/0/8,-,294.525,406.30684027680104
+Discount rate,0.04,0.5,With MSF,capital,4/2/0/2/4.5,CCGT,344.125,1193.433247918688
+Discount rate,0.04,0.5,With MSF,lifecycle,9/2/0/1/7,boiler,439.54420438957476,865.2328705392928
+Discount rate,0.04,0.5,With MED and MSF,capital,7/2/2/1/4.5,CCGT,279.203,920.1010586778888
+Discount rate,0.04,0.5,With MED and MSF,lifecycle,10/2/1/1/5,boiler,355.7080192043896,855.953850616025
+Discount rate,0.04,0.5,With MED,capital,5/2/6/0/4.5,CCGT,215.559,801.1326877034467
+Discount rate,0.04,0.5,With MED,lifecycle,11/2/2/0/8,CCGT,388.803,677.355684497726
+Discount rate,0.04,0.5,No thermal,capital,14/2/0/0/10.5,-,515.925,662.2941252720442
+Discount rate,0.04,0.5,No thermal,lifecycle,14/2/0/0/10.5,-,515.925,662.2941252720442
+Discount rate,0.12,0.4,With MSF,capital,7/2/0/1/4.5,CCGT,212.825,441.1349088061845
+Discount rate,0.12,0.4,With MSF,lifecycle,7/2/0/1/4.5,CCGT,212.825,441.1349088061845
+Discount rate,0.12,0.4,With MED and MSF,capital,4/2/1/1/4.5,CCGT,211.814,477.2739615322895
+Discount rate,0.12,0.4,With MED and MSF,lifecycle,4/2/1/1/4.5,CCGT,211.814,477.2739615322895
+Discount rate,0.12,0.4,With MED,capital,4/2/4/0/4.5,CCGT,145.881,343.85769318442215
+Discount rate,0.12,0.4,With MED,lifecycle,12/2/2/0/5,CCGT,176.103,306.58841287387327
+Discount rate,0.12,0.4,No thermal,capital,14/2/0/0/8,-,294.525,350.6456015239889
+Discount rate,0.12,0.4,No thermal,lifecycle,14/2/0/0/8,-,294.525,350.6456015239889
+Discount rate,0.12,0.5,With MSF,capital,4/2/0/2/4.5,CCGT,344.125,770.5242222211955
+Discount rate,0.12,0.5,With MSF,lifecycle,9/2/0/1/7,CCGT,403.025,650.8496193093902
+Discount rate,0.12,0.5,With MED and MSF,capital,7/2/2/1/4.5,CCGT,279.203,600.9689011472232
+Discount rate,0.12,0.5,With MED and MSF,lifecycle,10/2/1/1/5,CCGT,307.214,593.9474959813756
+Discount rate,0.12,0.5,With MED,capital,5/2/6/0/4.5,CCGT,215.559,509.54903907218824
+Discount rate,0.12,0.5,With MED,lifecycle,8/2/5/0/4.5,CCGT,216.57,473.40998634608326
+Discount rate,0.12,0.5,No thermal,capital,14/2/0/0/10.5,-,515.925,589.4103115180998
+Discount rate,0.12,0.5,No thermal,lifecycle,14/2/0/0/10.5,-,515.925,589.4103115180998
+"MSF capital, USD per m³/d",1700.0,0.4,With MSF,capital,7/2/0/1/4.5,CCGT,175.785,506.3820806241454
+"MSF capital, USD per m³/d",1700.0,0.4,With MSF,lifecycle,7/2/0/1/4.5,boiler,212.30420438957478,492.22609315318755
+"MSF capital, USD per m³/d",1700.0,0.4,With MED and MSF,capital,4/2/1/1/4.5,CCGT,174.774,560.5697993175608
+"MSF capital, USD per m³/d",1700.0,0.4,With MED and MSF,lifecycle,4/2/1/1/4.5,boiler,223.26801920438956,556.1939060270427
+"MSF capital, USD per m³/d",1700.0,0.4,With MED,capital,4/2/4/0/4.5,CCGT,145.881,440.04100767235803
+"MSF capital, USD per m³/d",1700.0,0.4,With MED,lifecycle,12/2/2/0/5,CCGT,176.103,369.9823371821487
+"MSF capital, USD per m³/d",1700.0,0.4,No thermal,capital,14/2/0/0/8,-,294.525,377.9107577340972
+"MSF capital, USD per m³/d",1700.0,0.4,No thermal,lifecycle,14/2/0/0/8,-,294.525,377.9107577340972
+"MSF capital, USD per m³/d",1700.0,0.5,With MSF,capital,4/2/0/2/4.5,CCGT,270.045,886.3364485645818
+"MSF capital, USD per m³/d",1700.0,0.5,With MSF,lifecycle,9/2/0/1/7,boiler,402.50420438957474,711.4216647985802
+"MSF capital, USD per m³/d",1700.0,0.5,With MED and MSF,capital,7/2/2/1/4.5,CCGT,242.163,711.6199382259636
+"MSF capital, USD per m³/d",1700.0,0.5,With MED and MSF,lifecycle,10/2/1/1/5,boiler,318.66801920438957,683.2027937001586
+"MSF capital, USD per m³/d",1700.0,0.5,With MED,capital,5/2/6/0/4.5,CCGT,215.559,652.3786617392357
+"MSF capital, USD per m³/d",1700.0,0.5,With MED,lifecycle,9/2/4/0/5.5,CCGT,264.981,590.0965663385432
+"MSF capital, USD per m³/d",1700.0,0.5,No thermal,capital,14/2/0/0/10.5,-,515.925,625.111790890751
+"MSF capital, USD per m³/d",1700.0,0.5,No thermal,lifecycle,14/2/0/0/10.5,-,515.925,625.111790890751
+"MSF capital, USD per m³/d",2800.0,0.4,With MSF,capital,7/2/0/1/4.5,CCGT,277.645,631.9827602748838
+"MSF capital, USD per m³/d",2800.0,0.4,With MSF,lifecycle,7/2/0/1/4.5,boiler,314.16420438957476,617.826772803926
+"MSF capital, USD per m³/d",2800.0,0.4,With MED and MSF,capital,4/2/1/1/4.5,CCGT,276.634,686.1704789682992
+"MSF capital, USD per m³/d",2800.0,0.4,With MED and MSF,lifecycle,4/2/1/1/4.5,boiler,325.12801920438955,681.7945856777811
+"MSF capital, USD per m³/d",2800.0,0.4,With MED,capital,4/2/4/0/4.5,CCGT,145.881,440.04100767235803
+"MSF capital, USD per m³/d",2800.0,0.4,With MED,lifecycle,12/2/2/0/5,CCGT,176.103,369.9823371821487
+"MSF capital, USD per m³/d",2800.0,0.4,No thermal,capital,14/2/0/0/8,-,294.525,377.9107577340972
+"MSF capital, USD per m³/d",2800.0,0.4,No thermal,lifecycle,14/2/0/0/8,-,294.525,377.9107577340972
+"MSF capital, USD per m³/d",2800.0,0.5,With MSF,capital,9/2/0/1/7,CCGT,467.845,851.1783319202764
+"MSF capital, USD per m³/d",2800.0,0.5,With MSF,lifecycle,9/2/0/1/7,boiler,504.36420438957475,837.0223444493187
+"MSF capital, USD per m³/d",2800.0,0.5,With MED and MSF,capital,7/2/2/1/4.5,CCGT,344.023,837.2206178767021
+"MSF capital, USD per m³/d",2800.0,0.5,With MED and MSF,lifecycle,10/2/1/1/5,boiler,420.5280192043896,808.8034733508971
+"MSF capital, USD per m³/d",2800.0,0.5,With MED,capital,5/2/6/0/4.5,CCGT,215.559,652.3786617392357
+"MSF capital, USD per m³/d",2800.0,0.5,With MED,lifecycle,9/2/4/0/5.5,CCGT,264.981,590.0965663385432
+"MSF capital, USD per m³/d",2800.0,0.5,No thermal,capital,14/2/0/0/10.5,-,515.925,625.111790890751
+"MSF capital, USD per m³/d",2800.0,0.5,No thermal,lifecycle,14/2/0/0/10.5,-,515.925,625.111790890751
+"MSF CCGT steam penalty, kWh per m³",8.0,0.4,With MSF,capital,7/2/0/1/4.5,CCGT,212.825,436.82168085639944
+"MSF CCGT steam penalty, kWh per m³",8.0,0.4,With MSF,lifecycle,7/2/0/1/4.5,CCGT,212.825,436.82168085639944
+"MSF CCGT steam penalty, kWh per m³",8.0,0.4,With MED and MSF,capital,4/2/1/1/4.5,CCGT,211.814,491.0093995498149
+"MSF CCGT steam penalty, kWh per m³",8.0,0.4,With MED and MSF,lifecycle,4/2/1/1/4.5,CCGT,211.814,491.0093995498149
+"MSF CCGT steam penalty, kWh per m³",8.0,0.4,With MED,capital,4/2/4/0/4.5,CCGT,145.881,440.04100767235803
+"MSF CCGT steam penalty, kWh per m³",8.0,0.4,With MED,lifecycle,12/2/2/0/5,CCGT,176.103,369.9823371821487
+"MSF CCGT steam penalty, kWh per m³",8.0,0.4,No thermal,capital,14/2/0/0/8,-,294.525,377.9107577340972
+"MSF CCGT steam penalty, kWh per m³",8.0,0.4,No thermal,lifecycle,14/2/0/0/8,-,294.525,377.9107577340972
+"MSF CCGT steam penalty, kWh per m³",8.0,0.5,With MSF,capital,4/2/0/2/4.5,CCGT,344.125,747.21564902909
+"MSF CCGT steam penalty, kWh per m³",8.0,0.5,With MSF,lifecycle,9/2/0/1/7,CCGT,403.025,656.017252501792
+"MSF CCGT steam penalty, kWh per m³",8.0,0.5,With MED and MSF,capital,7/2/2/1/4.5,CCGT,279.203,642.0595384582177
+"MSF CCGT steam penalty, kWh per m³",8.0,0.5,With MED and MSF,lifecycle,10/2/1/1/5,CCGT,307.214,618.0182872229308
+"MSF CCGT steam penalty, kWh per m³",8.0,0.5,With MED,capital,5/2/6/0/4.5,CCGT,215.559,652.3786617392357
+"MSF CCGT steam penalty, kWh per m³",8.0,0.5,With MED,lifecycle,9/2/4/0/5.5,CCGT,264.981,590.0965663385432
+"MSF CCGT steam penalty, kWh per m³",8.0,0.5,No thermal,capital,14/2/0/0/10.5,-,515.925,625.111790890751
+"MSF CCGT steam penalty, kWh per m³",8.0,0.5,No thermal,lifecycle,14/2/0/0/10.5,-,515.925,625.111790890751
+"MSF CCGT steam penalty, kWh per m³",19.0,0.4,With MSF,capital,7/2/0/1/4.5,CCGT,212.825,648.0828668644259
+"MSF CCGT steam penalty, kWh per m³",19.0,0.4,With MSF,lifecycle,7/2/0/1/4.5,boiler,249.34420438957477,537.8990675716378
+"MSF CCGT steam penalty, kWh per m³",19.0,0.4,With MED and MSF,capital,4/2/1/1/4.5,CCGT,211.814,702.2705855578413
+"MSF CCGT steam penalty, kWh per m³",19.0,0.4,With MED and MSF,lifecycle,4/2/1/1/4.5,boiler,260.30801920438955,601.8668804454929
+"MSF CCGT steam penalty, kWh per m³",19.0,0.4,With MED,capital,4/2/4/0/4.5,CCGT,145.881,440.04100767235803
+"MSF CCGT steam penalty, kWh per m³",19.0,0.4,With MED,lifecycle,12/2/2/0/5,CCGT,176.103,369.9823371821487
+"MSF CCGT steam penalty, kWh per m³",19.0,0.4,No thermal,capital,14/2/0/0/8,-,294.525,377.9107577340972
+"MSF CCGT steam penalty, kWh per m³",19.0,0.4,No thermal,lifecycle,14/2/0/0/8,-,294.525,377.9107577340972
+"MSF CCGT steam penalty, kWh per m³",19.0,0.5,With MSF,capital,4/2/0/2/4.5,CCGT,344.125,1169.738021045143
+"MSF CCGT steam penalty, kWh per m³",19.0,0.5,With MSF,lifecycle,9/2/0/1/7,boiler,439.54420438957476,757.0946392170305
+"MSF CCGT steam penalty, kWh per m³",19.0,0.5,With MED and MSF,capital,7/2/2/1/4.5,CCGT,279.203,853.3207244662441
+"MSF CCGT steam penalty, kWh per m³",19.0,0.5,With MED and MSF,lifecycle,10/2/1/1/5,boiler,355.7080192043896,728.8757681186089
+"MSF CCGT steam penalty, kWh per m³",19.0,0.5,With MED,capital,5/2/6/0/4.5,CCGT,215.559,652.3786617392357
+"MSF CCGT steam penalty, kWh per m³",19.0,0.5,With MED,lifecycle,9/2/4/0/5.5,CCGT,264.981,590.0965663385432
+"MSF CCGT steam penalty, kWh per m³",19.0,0.5,No thermal,capital,14/2/0/0/10.5,-,515.925,625.111790890751
+"MSF CCGT steam penalty, kWh per m³",19.0,0.5,No thermal,lifecycle,14/2/0/0/10.5,-,515.925,625.111790890751

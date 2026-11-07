@@ -1,0 +1,15 @@
+hazard,option,p_met_base,p_met_thermal_runs
+oil,A0,0.57038,0.57038
+oil,A4,0.56978,0.99902
+oil,A5,0.56978,0.99902
+oil,A2+A5,0.7893,1.0
+oil,A6,0.56976,0.99956
+oil,A7,0.56976,0.99956
+oil,A2+A7,0.7893,1.0
+oil_fouled,A0,0.0,0.0
+oil_fouled,A4,0.0,0.16222
+oil_fouled,A5,0.0,0.16222
+oil_fouled,A2+A5,0.0,0.65802
+oil_fouled,A6,0.0,0.2366
+oil_fouled,A7,0.0,0.2366
+oil_fouled,A2+A7,0.0,0.71096

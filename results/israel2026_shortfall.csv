@@ -1,0 +1,16 @@
+plant,window_days,dc_share,reports_low,reports_line,reports_high,p1_base,p1_low,p1_high,overlap,contained,line_within
+Ashkelon,37,0.2,11.0,11.61,12.0,12.1,11.1172,13.75,True,False,True
+Ashkelon,37,0.4,11.0,11.7222,12.0,12.7,11.2348,15.5,True,False,True
+Ashkelon,37,0.6,11.1667,12.6648,20.3333,17.0,11.3529,22.6667,True,False,True
+Ashdod,44,0.2,10.0,10.61,11.0,11.1,10.1172,12.75,True,False,True
+Ashdod,44,0.4,10.0,10.7222,11.0,11.7,10.2348,14.5,True,False,True
+Ashdod,44,0.6,10.1667,13.0446,19.3333,16.75,10.3529,24.3333,True,False,True
+Palmachim,44,0.2,2.0,2.4444,4.0,2.6,2.1172,3.75,True,False,True
+Palmachim,44,0.4,2.0,2.8887,4.0,3.2,2.2348,5.5,True,False,True
+Palmachim,44,0.6,3.5,6.1719,14.6667,8.25,2.3529,17.6667,True,True,True
+Sorek B,11,0.2,2.0,4.0,11.0,2.6,2.1172,3.75,True,False,False
+Sorek B,11,0.4,2.0,6.0,11.0,3.2,2.2348,5.5,True,False,False
+Sorek B,11,0.6,3.5,7.625,11.0,4.75,2.3529,7.3333,True,False,False
+Sorek A,36,0.2,7.0,7.8887,11.0,7.6,7.1172,8.75,True,False,True
+Sorek A,36,0.4,7.0,8.7778,11.0,8.2,7.2348,10.5,True,False,True
+Sorek A,36,0.6,7.6667,10.3523,19.3333,13.0833,7.3529,19.0,True,False,True

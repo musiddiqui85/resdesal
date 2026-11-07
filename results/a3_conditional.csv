@@ -1,0 +1,5 @@
+hazard,p_met_if_hit,p_met_if_escapes,p_escape_low,p_met_at_p_low,p_escape_base,p_met_at_p_base,p_escape_high,p_met_at_p_high
+severe_bloom,0.0,1.0,0.0,0.0,0.3,0.3,0.6,0.6
+short_bloom,0.0,1.0,0.0,0.0,0.2,0.2,0.5,0.5
+oil,0.57038,1.0,0.3,0.6992659999999999,0.5,0.78519,1.0,1.0
+oil_fouled,0.0,1.0,0.3,0.3,0.5,0.5,1.0,1.0

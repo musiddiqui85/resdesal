@@ -1,0 +1,61 @@
+dc_share,design,family,case,peak_shortfall_days,storage_available_days,unserved_days
+0.4,14/2/0/0/8,No thermal,"Long severe bloom, weak response",0.0,4.0,0.0
+0.4,14/2/0/0/8,No thermal,"Mixed bloom, pretreatment fails, slow return",7.569325657894738,4.0,3.569325657894738
+0.4,14/2/0/0/8,No thermal,"As above, MED and MSF also lose half their output",7.569325657894738,4.0,3.569325657894738
+0.4,14/2/0/0/8,No thermal,"As above, MED loses half but MSF keeps 80%",7.569325657894738,4.0,3.569325657894738
+0.4,14/2/0/0/8,No thermal,"Long precautionary closure, tanks half full",2.521349472782985,4.0,0.0
+0.4,4/2/4/0/4.5,With MED,"Long severe bloom, weak response",8.733804599117418,2.25,6.483804599117418
+0.4,4/2/4/0/4.5,With MED,"Mixed bloom, pretreatment fails, slow return",4.223105963552165,2.25,1.9731059635521646
+0.4,4/2/4/0/4.5,With MED,"As above, MED and MSF also lose half their output",6.319970276589558,2.25,4.069970276589558
+0.4,4/2/4/0/4.5,With MED,"As above, MED loses half but MSF keeps 80%",6.319970276589558,2.25,4.069970276589558
+0.4,4/2/4/0/4.5,With MED,"Long precautionary closure, tanks half full",2.5223460563212807,2.25,0.2723460563212807
+0.4,12/2/2/0/5,With MED,"Long severe bloom, weak response",0.0,2.5,0.0
+0.4,12/2/2/0/5,With MED,"Mixed bloom, pretreatment fails, slow return",5.17474226949025,2.5,2.67474226949025
+0.4,12/2/2/0/5,With MED,"As above, MED and MSF also lose half their output",6.234568825447808,2.5,3.734568825447808
+0.4,12/2/2/0/5,With MED,"As above, MED loses half but MSF keeps 80%",6.234568825447808,2.5,3.734568825447808
+0.4,12/2/2/0/5,With MED,"Long precautionary closure, tanks half full",2.521846055537196,2.5,0.021846055537196207
+0.4,7/2/0/1/4.5,With MSF,"Long severe bloom, weak response",0.0,2.25,0.0
+0.4,7/2/0/1/4.5,With MSF,"Mixed bloom, pretreatment fails, slow return",4.748589415300766,2.25,2.498589415300766
+0.4,7/2/0/1/4.5,With MSF,"As above, MED and MSF also lose half their output",6.399580568884594,2.25,4.149580568884594
+0.4,7/2/0/1/4.5,With MSF,"As above, MED loses half but MSF keeps 80%",4.748589415300766,2.25,2.498589415300766
+0.4,7/2/0/1/4.5,With MSF,"Long precautionary closure, tanks half full",2.5221269358984397,2.25,0.2721269358984397
+0.4,4/2/1/1/4.5,With MED and MSF,"Long severe bloom, weak response",7.358134033415514,2.25,5.108134033415514
+0.4,4/2/1/1/4.5,With MED and MSF,"Mixed bloom, pretreatment fails, slow return",4.053638635432761,2.25,1.803638635432761
+0.4,4/2/1/1/4.5,With MED and MSF,"As above, MED and MSF also lose half their output",6.2080767682458164,2.25,3.9580767682458164
+0.4,4/2/1/1/4.5,With MED and MSF,"As above, MED loses half but MSF keeps 80%",4.564272822677861,2.25,2.314272822677861
+0.4,4/2/1/1/4.5,With MED and MSF,"Long precautionary closure, tanks half full",2.522377473603377,2.25,0.27237747360337705
+0.5,14/2/0/0/10.5,No thermal,"Long severe bloom, weak response",0.0,5.25,0.0
+0.5,14/2/0/0/10.5,No thermal,"Mixed bloom, pretreatment fails, slow return",10.047999999999996,5.25,4.7979999999999965
+0.5,14/2/0/0/10.5,No thermal,"As above, MED and MSF also lose half their output",10.047999999999996,5.25,4.7979999999999965
+0.5,14/2/0/0/10.5,No thermal,"As above, MED loses half but MSF keeps 80%",10.047999999999996,5.25,4.7979999999999965
+0.5,14/2/0/0/10.5,No thermal,"Long precautionary closure, tanks half full",2.7017226928622926,5.25,0.0
+0.5,5/2/6/0/4.5,With MED,"Long severe bloom, weak response",6.41684794444089,2.25,4.16684794444089
+0.5,5/2/6/0/4.5,With MED,"Mixed bloom, pretreatment fails, slow return",4.119156667817279,2.25,1.869156667817279
+0.5,5/2/6/0/4.5,With MED,"As above, MED and MSF also lose half their output",6.8024374014361015,2.25,4.5524374014361015
+0.5,5/2/6/0/4.5,With MED,"As above, MED loses half but MSF keeps 80%",6.8024374014361015,2.25,4.5524374014361015
+0.5,5/2/6/0/4.5,With MED,"Long precautionary closure, tanks half full",2.703799651888259,2.25,0.453799651888259
+0.5,9/2/4/0/5.5,With MED,"Long severe bloom, weak response",0.0,2.75,0.0
+0.5,9/2/4/0/5.5,With MED,"Mixed bloom, pretreatment fails, slow return",5.698221996267793,2.75,2.948221996267793
+0.5,9/2/4/0/5.5,With MED,"As above, MED and MSF also lose half their output",7.535412516727955,2.75,4.785412516727955
+0.5,9/2/4/0/5.5,With MED,"As above, MED loses half but MSF keeps 80%",7.535412516727955,2.75,4.785412516727955
+0.5,9/2/4/0/5.5,With MED,"Long precautionary closure, tanks half full",2.7031025669058213,2.75,0.0
+0.5,4/2/0/2/4.5,With MSF,"Long severe bloom, weak response",11.41842264454355,2.25,9.16842264454355
+0.5,4/2/0/2/4.5,With MSF,"Mixed bloom, pretreatment fails, slow return",4.0197190280435615,2.25,1.7697190280435615
+0.5,4/2/0/2/4.5,With MSF,"As above, MED and MSF also lose half their output",6.811618870798691,2.25,4.561618870798691
+0.5,4/2/0/2/4.5,With MSF,"As above, MED loses half but MSF keeps 80%",4.0197190280435615,2.25,1.7697190280435615
+0.5,4/2/0/2/4.5,With MSF,"Long precautionary closure, tanks half full",2.7038872738641464,2.25,0.4538872738641464
+0.5,9/2/0/1/7,With MSF,"Long severe bloom, weak response",2.97022249369729,3.5,0.0
+0.5,9/2/0/1/7,With MSF,"Mixed bloom, pretreatment fails, slow return",6.7586703395114816,3.5,3.2586703395114816
+0.5,9/2/0/1/7,With MSF,"As above, MED and MSF also lose half their output",8.218024400275164,3.5,4.718024400275164
+0.5,9/2/0/1/7,With MSF,"As above, MED loses half but MSF keeps 80%",6.7586703395114816,3.5,3.2586703395114816
+0.5,9/2/0/1/7,With MSF,"Long precautionary closure, tanks half full",2.7027991717841213,3.5,0.0
+0.5,7/2/2/1/4.5,With MED and MSF,"Long severe bloom, weak response",0.0,2.25,0.0
+0.5,7/2/2/1/4.5,With MED and MSF,"Mixed bloom, pretreatment fails, slow return",4.753430093113282,2.25,2.5034300931132822
+0.5,7/2/2/1/4.5,With MED and MSF,"As above, MED and MSF also lose half their output",7.071317946479265,2.25,4.821317946479265
+0.5,7/2/2/1/4.5,With MED and MSF,"As above, MED loses half but MSF keeps 80%",5.642721471341133,2.25,3.392721471341133
+0.5,7/2/2/1/4.5,With MED and MSF,"Long precautionary closure, tanks half full",2.703494159222467,2.25,0.45349415922246683
+0.5,10/2/1/1/5,With MED and MSF,"Long severe bloom, weak response",0.0,2.5,0.0
+0.5,10/2/1/1/5,With MED and MSF,"Mixed bloom, pretreatment fails, slow return",5.353532772085807,2.5,2.8535327720858072
+0.5,10/2/1/1/5,With MED and MSF,"As above, MED and MSF also lose half their output",7.2353009705141496,2.5,4.7353009705141496
+0.5,10/2/1/1/5,With MED and MSF,"As above, MED loses half but MSF keeps 80%",5.802424652716637,2.5,3.3024246527166374
+0.5,10/2/1/1/5,With MED and MSF,"Long precautionary closure, tanks half full",2.70314606741573,2.5,0.20314606741573016

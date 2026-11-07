@@ -1,0 +1,15 @@
+plant,date,day,reported_low,reported_high,limit_cause,p1_low,p1_high,p1_base,overlap,note
+Ashkelon,2026-09-10,12,0.4,0.5,bloom,0.0,0.85,0.0833,True,all plants but Hadera at 40-50%
+Ashkelon,2026-10-05,37,1.0,1.0,none,0.4,1.0,0.5,True,others at full capacity
+Ashdod,2026-09-10,11,0.4,0.5,bloom,0.0,0.85,0.0833,True,all plants but Hadera at 40-50%
+Ashdod,2026-10-05,36,0.66,0.66,bloom,0.4,1.0,0.5,True,algae still preventing the plant from increasing its flow
+Ashdod,2026-10-13,44,0.75,0.85,bloom,0.4,1.0,1.0,True,"about 80%, limited by turbidity"
+Palmachim,2026-09-03,4,0.4,0.5,bloom,0.1143,0.85,0.3333,True,120-150k of 300k m3/d
+Palmachim,2026-09-10,11,0.4,0.5,bloom,0.4,0.85,0.5,True,all plants but Hadera at 40-50%
+Palmachim,2026-10-05,36,0.85,0.85,unstated,0.4,1.0,1.0,True,
+Palmachim,2026-10-13,44,0.75,0.85,unstated,1.0,1.0,1.0,False,about 80%; cause not stated
+Sorek B,2026-09-10,11,0.4,0.5,bloom,0.4,0.85,0.5,True,all plants but Hadera at 40-50%
+Sorek B,2026-10-05,36,0.6,0.6,other,0.4,1.0,1.0,True,put down to a pump fault
+Sorek B,2026-10-13,44,0.45,0.55,other,1.0,1.0,1.0,False,"about 50%, pumping malfunction"
+Sorek A,2026-09-10,11,0.4,0.5,bloom,0.2286,0.85,0.5,True,all plants but Hadera at 40-50%
+Sorek A,2026-10-05,36,1.0,1.0,none,0.4,1.0,0.5,True,others at full capacity

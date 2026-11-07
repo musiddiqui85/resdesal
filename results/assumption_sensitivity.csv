@@ -1,0 +1,287 @@
+case,dc_share,family,basis,daf_uf_trains,subsurface_trains,med_units,msf_units,site_b_trains,steam,storage_days,capital_musd,lifecycle_musd
+Base case,0.4,With MSF,capital_musd,7,2,0,1,0,CCGT,4.5,212.825,552.0550550425958
+Base case,0.4,With MSF,lifecycle_musd,7,2,0,1,0,boiler,4.5,249.34420438957477,537.8990675716378
+Base case,0.4,With MED and MSF,capital_musd,4,2,1,1,0,CCGT,4.5,211.814,606.2427737360111
+Base case,0.4,With MED and MSF,lifecycle_musd,4,2,1,1,0,boiler,4.5,260.30801920438955,601.8668804454929
+Base case,0.4,With MED,capital_musd,4,2,4,0,0,CCGT,4.5,145.881,440.04100767235803
+Base case,0.4,With MED,lifecycle_musd,12,2,2,0,0,CCGT,5.0,176.103,369.9823371821487
+Base case,0.4,No thermal,capital_musd,14,2,0,0,0,-,8.0,294.525,377.9107577340972
+Base case,0.4,No thermal,lifecycle_musd,14,2,0,0,0,-,8.0,294.525,377.9107577340972
+Base case,0.5,With MSF,capital_musd,4,2,0,2,0,CCGT,4.5,344.125,977.6823974014826
+Base case,0.5,With MSF,lifecycle_musd,9,2,0,1,0,boiler,7.0,439.54420438957476,757.0946392170305
+Base case,0.5,With MED and MSF,capital_musd,7,2,2,1,0,CCGT,4.5,279.203,757.2929126444141
+Base case,0.5,With MED and MSF,lifecycle_musd,10,2,1,1,0,boiler,5.0,355.7080192043896,728.8757681186089
+Base case,0.5,With MED,capital_musd,5,2,6,0,0,CCGT,4.5,215.559,652.3786617392357
+Base case,0.5,With MED,lifecycle_musd,9,2,4,0,0,CCGT,5.5,264.981,590.0965663385432
+Base case,0.5,No thermal,capital_musd,14,2,0,0,0,-,10.5,515.925,625.111790890751
+Base case,0.5,No thermal,lifecycle_musd,14,2,0,0,0,-,10.5,515.925,625.111790890751
+Tanks full at onset,0.4,With MSF,capital_musd,10,2,0,1,0,CCGT,2.5,136.325,476.8857485717626
+Tanks full at onset,0.4,With MSF,lifecycle_musd,10,2,0,1,0,boiler,2.5,172.84420438957477,462.72976110080475
+Tanks full at onset,0.4,With MED and MSF,capital_musd,5,2,1,1,0,CCGT,2.5,128.714,516.8738743350593
+Tanks full at onset,0.4,With MED and MSF,lifecycle_musd,5,2,1,1,0,boiler,2.5,177.2080192043896,512.4979810445412
+Tanks full at onset,0.4,With MED,capital_musd,5,2,4,0,0,CCGT,2.5,62.781,350.67210827140616
+Tanks full at onset,0.4,With MED,lifecycle_musd,12,2,1,0,0,CCGT,4.5,145.614,270.3780551270524
+Tanks full at onset,0.4,No thermal,capital_musd,13,2,0,0,0,-,5.5,183.225,250.22509143652385
+Tanks full at onset,0.4,No thermal,lifecycle_musd,13,2,0,0,0,-,5.5,183.225,250.22509143652385
+Tanks full at onset,0.5,With MSF,capital_musd,5,2,0,2,0,CCGT,3.0,266.425,894.3427914921564
+Tanks full at onset,0.5,With MSF,lifecycle_musd,10,2,0,1,0,boiler,4.5,307.84420438957477,613.4620983914473
+Tanks full at onset,0.5,With MED and MSF,capital_musd,7,2,2,1,0,CCGT,3.0,198.203,666.8535102700286
+Tanks full at onset,0.5,With MED and MSF,lifecycle_musd,10,2,1,1,0,boiler,3.5,274.7080192043896,638.4363657442235
+Tanks full at onset,0.5,With MED,capital_musd,5,2,6,0,0,CCGT,3.0,134.559,561.9392593648502
+Tanks full at onset,0.5,With MED,lifecycle_musd,13,2,1,0,0,CCGT,6.0,278.514,422.18089539112856
+Tanks full at onset,0.5,No thermal,capital_musd,13,2,0,0,0,-,7.0,323.625,406.98672221879207
+Tanks full at onset,0.5,No thermal,lifecycle_musd,13,2,0,0,0,-,7.0,323.625,406.98672221879207
+Tanks half full at onset,0.4,With MSF,capital_musd,10,2,0,1,0,CCGT,5.0,244.325,597.4716184042766
+Tanks half full at onset,0.4,With MSF,lifecycle_musd,10,2,0,1,0,boiler,5.0,280.84420438957477,583.3156309333189
+Tanks half full at onset,0.4,With MED and MSF,capital_musd,5,2,1,1,0,CCGT,5.0,236.714,637.4597441675733
+Tanks half full at onset,0.4,With MED and MSF,lifecycle_musd,5,2,1,1,0,boiler,5.0,285.2080192043896,633.0838508770552
+Tanks half full at onset,0.4,With MED,capital_musd,5,2,4,0,0,CCGT,5.0,170.781,471.25797810392015
+Tanks half full at onset,0.4,With MED,lifecycle_musd,11,2,3,0,0,CCGT,5.0,181.692,438.3696488056828
+Tanks half full at onset,0.4,No thermal,capital_musd,14,2,0,0,0,-,10.5,402.525,498.4966275666112
+Tanks half full at onset,0.4,No thermal,lifecycle_musd,14,2,0,0,0,-,10.5,402.525,498.4966275666112
+Tanks half full at onset,0.5,With MSF,capital_musd,5,2,0,2,0,CCGT,5.5,401.425,1045.075128782799
+Tanks half full at onset,0.5,With MSF,lifecycle_musd,8,2,0,1,0,boiler,10.0,598.2442043895747,930.8736475007422
+Tanks half full at onset,0.5,With MED and MSF,capital_musd,5,2,3,1,0,CCGT,5.5,335.492,878.8733627191459
+Tanks half full at onset,0.5,With MED and MSF,lifecycle_musd,8,2,2,1,0,CCGT,5.5,336.503,824.6856440257304
+Tanks half full at onset,0.5,With MED,capital_musd,5,2,6,0,0,CCGT,5.5,269.559,712.6715966554926
+Tanks half full at onset,0.5,With MED,lifecycle_musd,9,2,5,0,0,CCGT,5.5,273.87,665.5836744271367
+DAF + UF online 1 d after onset,0.4,With MSF,capital_musd,8,2,0,1,0,CCGT,4.5,216.125,559.1548515076552
+DAF + UF online 1 d after onset,0.4,With MSF,lifecycle_musd,8,2,0,1,0,boiler,4.5,252.64420438957475,544.9988640366972
+DAF + UF online 1 d after onset,0.4,With MED and MSF,capital_musd,4,2,1,1,0,CCGT,4.5,211.814,606.2427737360111
+DAF + UF online 1 d after onset,0.4,With MED and MSF,lifecycle_musd,4,2,1,1,0,boiler,4.5,260.30801920438955,601.8668804454929
+DAF + UF online 1 d after onset,0.4,With MED,capital_musd,4,2,4,0,0,CCGT,4.5,145.881,440.04100767235803
+DAF + UF online 1 d after onset,0.4,With MED,lifecycle_musd,11,2,2,0,0,CCGT,5.5,194.403,386.99971468359206
+DAF + UF online 1 d after onset,0.4,No thermal,capital_musd,10,2,0,0,0,-,10.0,367.725,445.980267739871
+DAF + UF online 1 d after onset,0.4,No thermal,lifecycle_musd,10,2,0,0,0,-,10.0,367.725,445.980267739871
+DAF + UF online 1 d after onset,0.5,With MSF,capital_musd,5,2,0,2,0,CCGT,4.5,347.425,984.782193866542
+DAF + UF online 1 d after onset,0.5,With MSF,lifecycle_musd,10,2,0,1,0,boiler,7.0,442.84420438957477,764.1944356820898
+DAF + UF online 1 d after onset,0.5,With MED and MSF,capital_musd,5,2,3,1,0,CCGT,4.5,281.492,818.5804278028888
+DAF + UF online 1 d after onset,0.5,With MED and MSF,lifecycle_musd,10,2,1,1,0,boiler,5.5,382.7080192043896,759.0222355767376
+DAF + UF online 1 d after onset,0.5,With MED,capital_musd,5,2,6,0,0,CCGT,4.5,215.559,652.3786617392357
+DAF + UF online 1 d after onset,0.5,With MED,lifecycle_musd,10,2,4,0,0,CCGT,5.5,268.281,597.1963628036025
+DAF + UF online 1 d after onset,0.5,No thermal,capital_musd,13,2,0,0,0,-,11.0,539.625,648.1584618838201
+DAF + UF online 1 d after onset,0.5,No thermal,lifecycle_musd,13,2,0,0,0,-,11.0,539.625,648.1584618838201
+DAF + UF online 2 d after onset,0.4,With MSF,capital_musd,9,2,0,1,0,CCGT,4.5,219.425,566.2546479727145
+DAF + UF online 2 d after onset,0.4,With MSF,lifecycle_musd,9,2,0,1,0,boiler,4.5,255.94420438957476,552.0986605017566
+DAF + UF online 2 d after onset,0.4,With MED and MSF,capital_musd,4,2,1,1,0,CCGT,4.5,211.814,606.2427737360111
+DAF + UF online 2 d after onset,0.4,With MED and MSF,lifecycle_musd,4,2,1,1,0,boiler,4.5,260.30801920438955,601.8668804454929
+DAF + UF online 2 d after onset,0.4,With MED,capital_musd,4,2,4,0,0,CCGT,4.5,145.881,440.04100767235803
+DAF + UF online 2 d after onset,0.4,With MED,lifecycle_musd,12,2,2,0,0,CCGT,5.5,197.703,394.09951114865146
+DAF + UF online 2 d after onset,0.4,No thermal,capital_musd,11,2,0,0,0,-,10.0,371.025,453.08006420493035
+DAF + UF online 2 d after onset,0.4,No thermal,lifecycle_musd,11,2,0,0,0,-,10.0,371.025,453.08006420493035
+DAF + UF online 2 d after onset,0.5,With MSF,capital_musd,5,2,0,2,0,CCGT,4.5,347.425,984.782193866542
+DAF + UF online 2 d after onset,0.5,With MSF,lifecycle_musd,11,2,0,1,0,boiler,7.0,446.1442043895748,771.294232147149
+DAF + UF online 2 d after onset,0.5,With MED and MSF,capital_musd,5,2,3,1,0,CCGT,4.5,281.492,818.5804278028888
+DAF + UF online 2 d after onset,0.5,With MED and MSF,lifecycle_musd,10,2,1,1,0,boiler,5.5,382.7080192043896,759.0222355767376
+DAF + UF online 2 d after onset,0.5,With MED,capital_musd,5,2,6,0,0,CCGT,4.5,215.559,652.3786617392357
+DAF + UF online 2 d after onset,0.5,With MED,lifecycle_musd,9,2,5,0,0,CCGT,4.5,219.87,605.2907395108795
+DAF + UF online 2 d after onset,0.5,No thermal,capital_musd,12,2,0,0,0,-,12.0,590.325,701.3516003350178
+DAF + UF online 2 d after onset,0.5,No thermal,lifecycle_musd,12,2,0,0,0,-,12.0,590.325,701.3516003350178
+No subsurface intake,0.4,With MSF,capital_musd,5,0,0,2,0,CCGT,5.5,331.3,965.5282067831808
+No subsurface intake,0.4,With MSF,lifecycle_musd,12,0,0,1,0,boiler,8.0,406.3192043895748,728.9935740707189
+No subsurface intake,0.4,With MED and MSF,capital_musd,5,0,3,1,0,CCGT,5.5,265.367,799.3264407195277
+No subsurface intake,0.4,With MED and MSF,lifecycle_musd,12,0,1,1,0,boiler,6.0,340.7830192043896,717.7920804737408
+No subsurface intake,0.4,With MED,capital_musd,5,0,6,0,0,CCGT,5.5,199.434,633.1246746558745
+No subsurface intake,0.4,With MED,lifecycle_musd,13,0,3,0,0,CCGT,8.0,307.167,584.0475919430829
+No subsurface intake,0.5,With MSF,capital_musd,10,0,0,2,0,CCGT,6.0,434.2,1097.4958849744887
+No subsurface intake,0.5,With MSF,lifecycle_musd,13,0,0,1,0,boiler,10.0,604.0192043895747,953.1479362343035
+No subsurface intake,0.5,With MED and MSF,capital_musd,7,0,4,1,0,CCGT,6.0,367.256,985.4818376042512
+No subsurface intake,0.5,With MED and MSF,lifecycle_musd,11,0,3,1,0,CCGT,6.0,371.567,938.3939153758951
+No subsurface intake,0.5,With MED,capital_musd,7,0,7,0,0,CCGT,6.0,301.323,819.2800715405979
+No subsurface intake,0.5,With MED,lifecycle_musd,10,0,5,0,0,CCGT,8.0,401.445,810.1911145911031
+Subsurface intake cap 6.25% (one train),0.4,With MSF,capital_musd,12,1,0,1,0,CCGT,5.5,267.1625,629.1760385050304
+Subsurface intake cap 6.25% (one train),0.4,With MSF,lifecycle_musd,12,1,0,1,0,boiler,5.5,303.68170438957475,615.0200510340726
+Subsurface intake cap 6.25% (one train),0.4,With MED and MSF,capital_musd,5,1,2,1,0,CCGT,5.0,240.2405,706.3345054602992
+Subsurface intake cap 6.25% (one train),0.4,With MED and MSF,lifecycle_musd,8,1,1,1,0,boiler,5.0,289.74551920438955,647.7708934763656
+Subsurface intake cap 6.25% (one train),0.4,With MED,capital_musd,5,1,5,0,0,CCGT,5.0,174.3075,540.132739396646
+Subsurface intake cap 6.25% (one train),0.4,With MED,lifecycle_musd,12,1,3,0,0,CCGT,5.5,201.2295,462.9742724413773
+Subsurface intake cap 6.25% (one train),0.4,No thermal,capital_musd,14,1,0,0,0,-,10.5,397.1625,491.88428077074354
+Subsurface intake cap 6.25% (one train),0.4,No thermal,lifecycle_musd,14,1,0,0,0,-,10.5,397.1625,491.88428077074354
+Subsurface intake cap 6.25% (one train),0.5,With MSF,capital_musd,7,1,0,2,0,CCGT,5.0,375.6625,1022.5159074589214
+Subsurface intake cap 6.25% (one train),0.5,With MSF,lifecycle_musd,9,1,0,1,0,boiler,10.0,596.1817043895747,931.3610971699338
+Subsurface intake cap 6.25% (one train),0.5,With MED and MSF,capital_musd,5,1,4,1,0,CCGT,5.0,312.0185,917.6016565537432
+Subsurface intake cap 6.25% (one train),0.5,With MED and MSF,lifecycle_musd,11,1,1,1,0,boiler,7.0,461.6455192043896,849.9490876203146
+Subsurface intake cap 6.25% (one train),0.5,With MED,capital_musd,5,1,7,0,0,CCGT,5.0,246.0855,751.3998904900899
+Subsurface intake cap 6.25% (one train),0.5,With MED,lifecycle_musd,11,1,5,0,0,CCGT,5.5,275.1075,673.1709205613876
+Subsurface intake cap 25% (beyond demonstrated),0.4,With MSF,capital_musd,2,4,0,1,0,CCGT,3.0,142.25,457.429244409526
+Subsurface intake cap 25% (beyond demonstrated),0.4,With MSF,lifecycle_musd,2,4,0,1,0,boiler,3.0,178.76920438957475,443.2732569385681
+Subsurface intake cap 25% (beyond demonstrated),0.4,With MED and MSF,capital_musd,1,4,1,1,0,CCGT,3.0,147.839,525.8165560330601
+Subsurface intake cap 25% (beyond demonstrated),0.4,With MED and MSF,lifecycle_musd,1,4,1,1,0,boiler,3.0,196.3330192043896,521.440662742542
+Subsurface intake cap 25% (beyond demonstrated),0.4,With MED,capital_musd,4,4,2,0,0,CCGT,3.0,74.028,229.93996318739804
+Subsurface intake cap 25% (beyond demonstrated),0.4,With MED,lifecycle_musd,8,4,1,0,0,CCGT,3.0,78.339,182.85204095904194
+Subsurface intake cap 25% (beyond demonstrated),0.4,No thermal,capital_musd,12,4,0,0,0,-,3.5,104.25,159.8812926971887
+Subsurface intake cap 25% (beyond demonstrated),0.4,No thermal,lifecycle_musd,12,4,0,0,0,-,3.5,104.25,159.8812926971887
+Subsurface intake cap 25% (beyond demonstrated),0.5,With MSF,capital_musd,6,4,0,1,0,CCGT,3.5,214.85,552.1506586776461
+Subsurface intake cap 25% (beyond demonstrated),0.5,With MSF,lifecycle_musd,6,4,0,1,0,boiler,3.5,251.36920438957478,537.9946712066883
+Subsurface intake cap 25% (beyond demonstrated),0.5,With MED and MSF,capital_musd,4,4,1,1,0,CCGT,3.5,217.139,613.4381738361209
+Subsurface intake cap 25% (beyond demonstrated),0.5,With MED and MSF,lifecycle_musd,4,4,1,1,0,boiler,3.5,265.6330192043896,609.0622805456028
+Subsurface intake cap 25% (beyond demonstrated),0.5,With MED,capital_musd,4,4,4,0,0,CCGT,3.5,151.206,447.2364077724677
+Subsurface intake cap 25% (beyond demonstrated),0.5,With MED,lifecycle_musd,10,4,2,0,0,CCGT,4.0,180.228,369.0074378437654
+Subsurface intake cap 25% (beyond demonstrated),0.5,No thermal,capital_musd,11,4,0,0,0,-,7.0,327.75,406.0118228804088
+Subsurface intake cap 25% (beyond demonstrated),0.5,No thermal,lifecycle_musd,11,4,0,0,0,-,7.0,327.75,406.0118228804088
+"Second site allowed, base escape probabilities",0.4,With MSF,capital_musd,8,2,0,1,2,CCGT,4.0,206.9,550.2969393777701
+"Second site allowed, base escape probabilities",0.4,With MSF,lifecycle_musd,8,2,0,1,2,boiler,4.0,243.41920438957476,536.1409519068122
+"Second site allowed, base escape probabilities",0.4,With MED and MSF,capital_musd,4,2,1,1,2,CCGT,4.0,202.589,597.3848616061262
+"Second site allowed, base escape probabilities",0.4,With MED and MSF,lifecycle_musd,4,2,1,1,2,boiler,4.0,251.0830192043896,593.0089683156082
+"Second site allowed, base escape probabilities",0.4,With MED,capital_musd,4,2,4,0,2,CCGT,4.0,136.656,431.183095542473
+"Second site allowed, base escape probabilities",0.4,With MED,lifecycle_musd,12,2,2,0,0,CCGT,5.0,176.103,369.9823371821487
+"Second site allowed, base escape probabilities",0.4,No thermal,capital_musd,14,2,0,0,0,-,8.0,294.525,377.9107577340972
+"Second site allowed, base escape probabilities",0.4,No thermal,lifecycle_musd,14,2,0,0,0,-,8.0,294.525,377.9107577340972
+"Second site allowed, base escape probabilities",0.5,With MSF,capital_musd,4,2,0,2,0,CCGT,4.5,344.125,977.6823974014826
+"Second site allowed, base escape probabilities",0.5,With MSF,lifecycle_musd,9,2,0,1,0,boiler,7.0,439.54420438957476,757.0946392170305
+"Second site allowed, base escape probabilities",0.5,With MED and MSF,capital_musd,7,2,2,1,0,CCGT,4.5,279.203,757.2929126444141
+"Second site allowed, base escape probabilities",0.5,With MED and MSF,lifecycle_musd,10,2,1,1,0,boiler,5.0,355.7080192043896,728.8757681186089
+"Second site allowed, base escape probabilities",0.5,With MED,capital_musd,5,2,6,0,0,CCGT,4.5,215.559,652.3786617392357
+"Second site allowed, base escape probabilities",0.5,With MED,lifecycle_musd,9,2,4,0,0,CCGT,5.5,264.981,590.0965663385432
+"Second site allowed, base escape probabilities",0.5,No thermal,capital_musd,14,2,0,0,0,-,10.5,515.925,625.111790890751
+"Second site allowed, base escape probabilities",0.5,No thermal,lifecycle_musd,14,2,0,0,0,-,10.5,515.925,625.111790890751
+"Second site allowed, escape probability 0.8",0.4,With MSF,capital_musd,6,2,0,1,2,CCGT,3.5,178.7,511.98017248114854
+"Second site allowed, escape probability 0.8",0.4,With MSF,lifecycle_musd,6,2,0,1,2,boiler,3.5,215.21920438957477,497.8241850101907
+"Second site allowed, escape probability 0.8",0.4,With MED and MSF,capital_musd,4,2,1,1,2,CCGT,3.5,180.989,573.2676876396233
+"Second site allowed, escape probability 0.8",0.4,With MED and MSF,lifecycle_musd,4,2,1,1,2,boiler,3.5,229.48301920438956,568.8917943491052
+"Second site allowed, escape probability 0.8",0.4,With MED,capital_musd,4,2,4,0,2,CCGT,3.5,115.056,407.06592157597015
+"Second site allowed, escape probability 0.8",0.4,With MED,lifecycle_musd,11,2,1,0,2,CCGT,5.0,176.289,302.6546944651136
+"Second site allowed, escape probability 0.8",0.4,No thermal,capital_musd,12,2,0,0,2,-,6.0,213.9,282.50173077458504
+"Second site allowed, escape probability 0.8",0.4,No thermal,lifecycle_musd,12,2,0,0,2,-,6.0,213.9,282.50173077458504
+"Second site allowed, escape probability 0.8",0.5,With MSF,capital_musd,9,2,0,1,2,CCGT,5.0,307.4,665.9240186920921
+"Second site allowed, escape probability 0.8",0.5,With MSF,lifecycle_musd,9,2,0,1,2,boiler,5.0,343.91920438957476,651.7680312211343
+"Second site allowed, escape probability 0.8",0.5,With MED and MSF,capital_musd,5,2,2,1,2,CCGT,4.0,257.978,728.2061140927847
+"Second site allowed, escape probability 0.8",0.5,With MED and MSF,lifecycle_musd,8,2,1,1,2,boiler,4.0,307.48301920438956,669.6425021088511
+"Second site allowed, escape probability 0.8",0.5,With MED,capital_musd,5,2,5,0,2,CCGT,4.0,192.045,562.0043480291315
+"Second site allowed, escape probability 0.8",0.5,With MED,lifecycle_musd,11,2,1,0,2,CCGT,7.0,338.289,483.5334992138846
+"Second site allowed, escape probability 0.8",0.5,No thermal,capital_musd,10,2,0,0,2,-,10.0,488.1,581.8253994090029
+"Second site allowed, escape probability 0.8",0.5,No thermal,lifecycle_musd,10,2,0,0,2,-,10.0,488.1,581.8253994090029
+"Triangular weighting, peak at base values",0.4,With MSF,capital_musd,6,2,0,1,0,CCGT,4.0,187.925,520.8380846110335
+"Triangular weighting, peak at base values",0.4,With MSF,lifecycle_musd,6,2,0,1,0,boiler,4.0,224.44420438957476,506.68209714007577
+"Triangular weighting, peak at base values",0.4,With MED and MSF,capital_musd,3,2,1,1,0,CCGT,4.0,186.914,575.0258033044489
+"Triangular weighting, peak at base values",0.4,With MED and MSF,lifecycle_musd,3,2,1,1,0,boiler,4.0,235.40801920438957,570.6499100139309
+"Triangular weighting, peak at base values",0.4,With MED,capital_musd,4,2,4,0,0,CCGT,4.0,124.281,415.9238337058552
+"Triangular weighting, peak at base values",0.4,With MED,lifecycle_musd,13,2,1,0,0,CCGT,5.0,170.514,301.5950255586145
+"Triangular weighting, peak at base values",0.4,No thermal,capital_musd,13,2,0,0,0,-,7.0,248.025,322.57661333603227
+"Triangular weighting, peak at base values",0.4,No thermal,lifecycle_musd,13,2,0,0,0,-,7.0,248.025,322.57661333603227
+"Triangular weighting, peak at base values",0.5,With MSF,capital_musd,11,2,0,1,0,CCGT,5.0,301.625,664.864349785593
+"Triangular weighting, peak at base values",0.5,With MSF,lifecycle_musd,11,2,0,1,0,boiler,5.0,338.1442043895748,650.7083623146351
+"Triangular weighting, peak at base values",0.5,With MED and MSF,capital_musd,6,2,2,1,0,CCGT,4.0,248.903,720.0466487212262
+"Triangular weighting, peak at base values",0.5,With MED and MSF,lifecycle_musd,10,2,1,1,0,boiler,4.0,301.7080192043896,668.582833202352
+"Triangular weighting, peak at base values",0.5,With MED,capital_musd,4,2,6,0,0,CCGT,4.0,185.259,615.132397816048
+"Triangular weighting, peak at base values",0.5,With MED,lifecycle_musd,10,2,4,0,0,CCGT,4.0,187.281,506.7569604292169
+"Triangular weighting, peak at base values",0.5,No thermal,capital_musd,12,2,0,0,0,-,10.0,482.325,580.7657305025037
+"Triangular weighting, peak at base values",0.5,No thermal,lifecycle_musd,12,2,0,0,0,-,10.0,482.325,580.7657305025037
+"Triangular weighting, peak at adverse ends",0.4,With MSF,capital_musd,11,2,0,1,0,CCGT,4.5,226.025,580.4542409028332
+"Triangular weighting, peak at adverse ends",0.4,With MSF,lifecycle_musd,11,2,0,1,0,boiler,4.5,262.54420438957476,566.2982534318753
+"Triangular weighting, peak at adverse ends",0.4,With MED and MSF,capital_musd,3,2,2,1,0,CCGT,4.5,217.403,674.6300853595452
+"Triangular weighting, peak at adverse ends",0.4,With MED and MSF,lifecycle_musd,6,2,1,1,0,boiler,4.5,266.9080192043896,616.0664733756117
+"Triangular weighting, peak at adverse ends",0.4,With MED,capital_musd,3,2,5,0,0,CCGT,4.5,151.47,508.4283192958921
+"Triangular weighting, peak at adverse ends",0.4,With MED,lifecycle_musd,10,2,3,0,0,CCGT,5.0,178.392,431.2698523406235
+"Triangular weighting, peak at adverse ends",0.4,No thermal,capital_musd,14,2,0,0,0,-,10.0,380.925,474.37945360010843
+"Triangular weighting, peak at adverse ends",0.4,No thermal,lifecycle_musd,14,2,0,0,0,-,10.0,380.925,474.37945360010843
+"Triangular weighting, peak at adverse ends",0.5,With MSF,capital_musd,5,2,0,2,0,CCGT,5.0,374.425,1014.9286613246704
+"Triangular weighting, peak at adverse ends",0.5,With MSF,lifecycle_musd,11,2,0,1,0,boiler,8.0,500.1442043895748,831.5871670634062
+"Triangular weighting, peak at adverse ends",0.5,With MED and MSF,capital_musd,5,2,3,1,0,CCGT,5.0,308.492,848.7268952610174
+"Triangular weighting, peak at adverse ends",0.5,With MED and MSF,lifecycle_musd,8,2,2,1,0,CCGT,5.5,336.503,824.6856440257304
+"Triangular weighting, peak at adverse ends",0.5,With MED,capital_musd,5,2,6,0,0,CCGT,5.0,242.559,682.5251291973642
+"Triangular weighting, peak at adverse ends",0.5,With MED,lifecycle_musd,10,2,5,0,0,CCGT,5.0,250.17,642.5370034340675
+Severe-bloom durations uniform (more long events),0.4,With MSF,capital_musd,7,2,0,1,0,CCGT,4.5,212.825,552.0550550425958
+Severe-bloom durations uniform (more long events),0.4,With MSF,lifecycle_musd,7,2,0,1,0,boiler,4.5,249.34420438957477,537.8990675716378
+Severe-bloom durations uniform (more long events),0.4,With MED and MSF,capital_musd,4,2,1,1,0,CCGT,4.5,211.814,606.2427737360111
+Severe-bloom durations uniform (more long events),0.4,With MED and MSF,lifecycle_musd,4,2,1,1,0,boiler,4.5,260.30801920438955,601.8668804454929
+Severe-bloom durations uniform (more long events),0.4,With MED,capital_musd,4,2,4,0,0,CCGT,4.5,145.881,440.04100767235803
+Severe-bloom durations uniform (more long events),0.4,With MED,lifecycle_musd,12,2,2,0,0,CCGT,5.0,176.103,369.9823371821487
+Severe-bloom durations uniform (more long events),0.4,No thermal,capital_musd,14,2,0,0,0,-,8.0,294.525,377.9107577340972
+Severe-bloom durations uniform (more long events),0.4,No thermal,lifecycle_musd,14,2,0,0,0,-,8.0,294.525,377.9107577340972
+Severe-bloom durations uniform (more long events),0.5,With MSF,capital_musd,5,2,0,2,0,CCGT,4.5,347.425,984.782193866542
+Severe-bloom durations uniform (more long events),0.5,With MSF,lifecycle_musd,9,2,0,1,0,boiler,7.0,439.54420438957476,757.0946392170305
+Severe-bloom durations uniform (more long events),0.5,With MED and MSF,capital_musd,7,2,2,1,0,CCGT,4.5,279.203,757.2929126444141
+Severe-bloom durations uniform (more long events),0.5,With MED and MSF,lifecycle_musd,10,2,1,1,0,boiler,5.0,355.7080192043896,728.8757681186089
+Severe-bloom durations uniform (more long events),0.5,With MED,capital_musd,5,2,6,0,0,CCGT,4.5,215.559,652.3786617392357
+Severe-bloom durations uniform (more long events),0.5,With MED,lifecycle_musd,9,2,4,0,0,CCGT,5.5,264.981,590.0965663385432
+Severe-bloom durations uniform (more long events),0.5,No thermal,capital_musd,14,2,0,0,0,-,10.5,515.925,625.111790890751
+Severe-bloom durations uniform (more long events),0.5,No thermal,lifecycle_musd,14,2,0,0,0,-,10.5,515.925,625.111790890751
+MED and MSF responses drawn independently,0.4,With MSF,capital_musd,7,2,0,1,0,CCGT,4.5,212.825,552.0550550425958
+MED and MSF responses drawn independently,0.4,With MSF,lifecycle_musd,7,2,0,1,0,boiler,4.5,249.34420438957477,537.8990675716378
+MED and MSF responses drawn independently,0.4,With MED and MSF,capital_musd,4,2,1,1,0,CCGT,4.5,211.814,606.2427737360111
+MED and MSF responses drawn independently,0.4,With MED and MSF,lifecycle_musd,4,2,1,1,0,boiler,4.5,260.30801920438955,601.8668804454929
+MED and MSF responses drawn independently,0.4,With MED,capital_musd,4,2,4,0,0,CCGT,4.5,145.881,440.04100767235803
+MED and MSF responses drawn independently,0.4,With MED,lifecycle_musd,12,2,2,0,0,CCGT,5.0,176.103,369.9823371821487
+MED and MSF responses drawn independently,0.4,No thermal,capital_musd,14,2,0,0,0,-,8.0,294.525,377.9107577340972
+MED and MSF responses drawn independently,0.4,No thermal,lifecycle_musd,14,2,0,0,0,-,8.0,294.525,377.9107577340972
+MED and MSF responses drawn independently,0.5,With MSF,capital_musd,4,2,0,2,0,CCGT,4.5,344.125,977.6823974014826
+MED and MSF responses drawn independently,0.5,With MSF,lifecycle_musd,9,2,0,1,0,boiler,7.0,439.54420438957476,757.0946392170305
+MED and MSF responses drawn independently,0.5,With MED and MSF,capital_musd,4,2,3,1,0,CCGT,4.5,278.192,811.4806313378294
+MED and MSF responses drawn independently,0.5,With MED and MSF,lifecycle_musd,10,2,1,1,0,boiler,5.0,355.7080192043896,728.8757681186089
+MED and MSF responses drawn independently,0.5,With MED,capital_musd,5,2,6,0,0,CCGT,4.5,215.559,652.3786617392357
+MED and MSF responses drawn independently,0.5,With MED,lifecycle_musd,9,2,4,0,0,CCGT,5.5,264.981,590.0965663385432
+MED and MSF responses drawn independently,0.5,No thermal,capital_musd,14,2,0,0,0,-,10.5,515.925,625.111790890751
+MED and MSF responses drawn independently,0.5,No thermal,lifecycle_musd,14,2,0,0,0,-,10.5,515.925,625.111790890751
+No MSF in the design space (before 3 Nov 2026),0.4,With MED,capital_musd,4,2,4,0,0,CCGT,4.5,145.881,440.04100767235803
+No MSF in the design space (before 3 Nov 2026),0.4,With MED,lifecycle_musd,12,2,2,0,0,CCGT,5.0,176.103,369.9823371821487
+No MSF in the design space (before 3 Nov 2026),0.4,No thermal,capital_musd,14,2,0,0,0,-,8.0,294.525,377.9107577340972
+No MSF in the design space (before 3 Nov 2026),0.4,No thermal,lifecycle_musd,14,2,0,0,0,-,8.0,294.525,377.9107577340972
+No MSF in the design space (before 3 Nov 2026),0.5,With MED,capital_musd,5,2,6,0,0,CCGT,4.5,215.559,652.3786617392357
+No MSF in the design space (before 3 Nov 2026),0.5,With MED,lifecycle_musd,9,2,4,0,0,CCGT,5.5,264.981,590.0965663385432
+No MSF in the design space (before 3 Nov 2026),0.5,No thermal,capital_musd,14,2,0,0,0,-,10.5,515.925,625.111790890751
+No MSF in the design space (before 3 Nov 2026),0.5,No thermal,lifecycle_musd,14,2,0,0,0,-,10.5,515.925,625.111790890751
+MED capped at 12 units (draft v0.5),0.4,With MSF,capital_musd,7,2,0,1,0,CCGT,4.5,212.825,552.0550550425958
+MED capped at 12 units (draft v0.5),0.4,With MSF,lifecycle_musd,7,2,0,1,0,boiler,4.5,249.34420438957477,537.8990675716378
+MED capped at 12 units (draft v0.5),0.4,With MED and MSF,capital_musd,4,2,1,1,0,CCGT,4.5,211.814,606.2427737360111
+MED capped at 12 units (draft v0.5),0.4,With MED and MSF,lifecycle_musd,4,2,1,1,0,boiler,4.5,260.30801920438955,601.8668804454929
+MED capped at 12 units (draft v0.5),0.4,With MED,capital_musd,4,2,4,0,0,CCGT,4.5,145.881,440.04100767235803
+MED capped at 12 units (draft v0.5),0.4,With MED,lifecycle_musd,12,2,2,0,0,CCGT,5.0,176.103,369.9823371821487
+MED capped at 12 units (draft v0.5),0.4,No thermal,capital_musd,14,2,0,0,0,-,8.0,294.525,377.9107577340972
+MED capped at 12 units (draft v0.5),0.4,No thermal,lifecycle_musd,14,2,0,0,0,-,8.0,294.525,377.9107577340972
+MED capped at 12 units (draft v0.5),0.5,With MSF,capital_musd,4,2,0,2,0,CCGT,4.5,344.125,977.6823974014826
+MED capped at 12 units (draft v0.5),0.5,With MSF,lifecycle_musd,9,2,0,1,0,boiler,7.0,439.54420438957476,757.0946392170305
+MED capped at 12 units (draft v0.5),0.5,With MED and MSF,capital_musd,7,2,2,1,0,CCGT,4.5,279.203,757.2929126444141
+MED capped at 12 units (draft v0.5),0.5,With MED and MSF,lifecycle_musd,10,2,1,1,0,boiler,5.0,355.7080192043896,728.8757681186089
+MED capped at 12 units (draft v0.5),0.5,With MED,capital_musd,5,2,6,0,0,CCGT,4.5,215.559,652.3786617392357
+MED capped at 12 units (draft v0.5),0.5,With MED,lifecycle_musd,9,2,4,0,0,CCGT,5.5,264.981,590.0965663385432
+MED capped at 12 units (draft v0.5),0.5,No thermal,capital_musd,14,2,0,0,0,-,10.5,515.925,625.111790890751
+MED capped at 12 units (draft v0.5),0.5,No thermal,lifecycle_musd,14,2,0,0,0,-,10.5,515.925,625.111790890751
+Protected intake keeps no output in oil closures,0.4,With MSF,capital_musd,5,2,0,1,0,CCGT,5.5,249.425,586.0898100454826
+Protected intake keeps no output in oil closures,0.4,With MSF,lifecycle_musd,5,2,0,1,0,boiler,5.5,285.9442043895748,571.9338225745249
+Protected intake keeps no output in oil closures,0.4,With MED and MSF,capital_musd,4,2,1,1,0,CCGT,5.5,255.014,654.4771216690168
+Protected intake keeps no output in oil closures,0.4,With MED and MSF,lifecycle_musd,4,2,1,1,0,boiler,5.5,303.5080192043896,650.1012283784987
+Protected intake keeps no output in oil closures,0.4,With MED,capital_musd,6,2,3,0,0,CCGT,5.5,186.792,426.98784044688887
+Protected intake keeps no output in oil closures,0.4,With MED,lifecycle_musd,10,2,2,0,0,CCGT,5.5,191.103,379.8999182185328
+Protected intake keeps no output in oil closures,0.4,No thermal,capital_musd,14,2,0,0,0,-,8.0,294.525,377.9107577340972
+Protected intake keeps no output in oil closures,0.4,No thermal,lifecycle_musd,14,2,0,0,0,-,8.0,294.525,377.9107577340972
+Protected intake keeps no output in oil closures,0.5,With MSF,capital_musd,9,2,0,1,0,CCGT,7.0,403.025,771.2506266879883
+Protected intake keeps no output in oil closures,0.5,With MSF,lifecycle_musd,9,2,0,1,0,boiler,7.0,439.54420438957476,757.0946392170305
+Protected intake keeps no output in oil closures,0.5,With MED and MSF,capital_musd,7,2,1,1,0,CCGT,6.0,351.314,772.2452069302061
+Protected intake keeps no output in oil closures,0.5,With MED and MSF,lifecycle_musd,7,2,1,1,0,boiler,6.0,399.80801920438955,767.869313639688
+Protected intake keeps no output in oil closures,0.5,With MED,capital_musd,8,2,4,0,0,CCGT,6.0,288.681,613.1432373316122
+Protected intake keeps no output in oil closures,0.5,With MED,lifecycle_musd,11,2,2,0,0,CCGT,8.0,388.803,604.0542803821173
+Protected intake keeps no output in oil closures,0.5,No thermal,capital_musd,14,2,0,0,0,-,10.5,515.925,625.111790890751
+Protected intake keeps no output in oil closures,0.5,No thermal,lifecycle_musd,14,2,0,0,0,-,10.5,515.925,625.111790890751
+Protected intake keeps half its output in oil closures,0.4,With MSF,capital_musd,6,2,0,1,0,CCGT,5.0,231.125,569.0724325440392
+Protected intake keeps half its output in oil closures,0.4,With MSF,lifecycle_musd,6,2,0,1,0,boiler,5.0,267.6442043895748,554.9164450730814
+Protected intake keeps half its output in oil closures,0.4,With MED and MSF,capital_musd,4,2,1,1,0,CCGT,5.0,233.414,630.359947702514
+Protected intake keeps half its output in oil closures,0.4,With MED and MSF,lifecycle_musd,4,2,1,1,0,boiler,5.0,281.9080192043896,625.9840544119959
+Protected intake keeps half its output in oil closures,0.4,With MED,capital_musd,4,2,4,0,0,CCGT,5.0,167.481,464.1581816388608
+Protected intake keeps half its output in oil closures,0.4,With MED,lifecycle_musd,12,2,2,0,0,CCGT,5.0,176.103,369.9823371821487
+Protected intake keeps half its output in oil closures,0.4,No thermal,capital_musd,14,2,0,0,0,-,8.0,294.525,377.9107577340972
+Protected intake keeps half its output in oil closures,0.4,No thermal,lifecycle_musd,14,2,0,0,0,-,8.0,294.525,377.9107577340972
+Protected intake keeps half its output in oil closures,0.5,With MSF,capital_musd,4,2,0,2,0,CCGT,5.0,371.125,1007.828864859611
+Protected intake keeps half its output in oil closures,0.5,With MSF,lifecycle_musd,9,2,0,1,0,boiler,7.0,439.54420438957476,757.0946392170305
+Protected intake keeps half its output in oil closures,0.5,With MED and MSF,capital_musd,6,2,2,1,0,CCGT,5.0,302.903,780.3395836374831
+Protected intake keeps half its output in oil closures,0.5,With MED and MSF,lifecycle_musd,10,2,1,1,0,boiler,5.0,355.7080192043896,728.8757681186089
+Protected intake keeps half its output in oil closures,0.5,With MED,capital_musd,6,2,5,0,0,CCGT,5.0,236.97,614.13781757383
+Protected intake keeps half its output in oil closures,0.5,With MED,lifecycle_musd,9,2,4,0,0,CCGT,5.5,264.981,590.0965663385432
+Protected intake keeps half its output in oil closures,0.5,No thermal,capital_musd,14,2,0,0,0,-,10.5,515.925,625.111790890751
+Protected intake keeps half its output in oil closures,0.5,No thermal,lifecycle_musd,14,2,0,0,0,-,10.5,515.925,625.111790890751
+Rising recovery to the same full-return date,0.4,With MSF,capital_musd,7,2,0,1,0,CCGT,4.5,212.825,552.0550550425958
+Rising recovery to the same full-return date,0.4,With MSF,lifecycle_musd,7,2,0,1,0,boiler,4.5,249.34420438957477,537.8990675716378
+Rising recovery to the same full-return date,0.4,With MED and MSF,capital_musd,4,2,1,1,0,CCGT,4.5,211.814,606.2427737360111
+Rising recovery to the same full-return date,0.4,With MED and MSF,lifecycle_musd,4,2,1,1,0,boiler,4.5,260.30801920438955,601.8668804454929
+Rising recovery to the same full-return date,0.4,With MED,capital_musd,4,2,4,0,0,CCGT,4.5,145.881,440.04100767235803
+Rising recovery to the same full-return date,0.4,With MED,lifecycle_musd,12,2,2,0,0,CCGT,5.0,176.103,369.9823371821487
+Rising recovery to the same full-return date,0.4,No thermal,capital_musd,14,2,0,0,0,-,8.0,294.525,377.9107577340972
+Rising recovery to the same full-return date,0.4,No thermal,lifecycle_musd,14,2,0,0,0,-,8.0,294.525,377.9107577340972
+Rising recovery to the same full-return date,0.5,With MSF,capital_musd,4,2,0,2,0,CCGT,4.5,344.125,977.6823974014826
+Rising recovery to the same full-return date,0.5,With MSF,lifecycle_musd,9,2,0,1,0,boiler,7.0,439.54420438957476,757.0946392170305
+Rising recovery to the same full-return date,0.5,With MED and MSF,capital_musd,7,2,2,1,0,CCGT,4.5,279.203,757.2929126444141
+Rising recovery to the same full-return date,0.5,With MED and MSF,lifecycle_musd,10,2,1,1,0,boiler,5.0,355.7080192043896,728.8757681186089
+Rising recovery to the same full-return date,0.5,With MED,capital_musd,5,2,6,0,0,CCGT,4.5,215.559,652.3786617392357
+Rising recovery to the same full-return date,0.5,With MED,lifecycle_musd,9,2,4,0,0,CCGT,5.5,264.981,590.0965663385432
+Rising recovery to the same full-return date,0.5,No thermal,capital_musd,14,2,0,0,0,-,10.5,515.925,625.111790890751
+Rising recovery to the same full-return date,0.5,No thermal,lifecycle_musd,14,2,0,0,0,-,10.5,515.925,625.111790890751
